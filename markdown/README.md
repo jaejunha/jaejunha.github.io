@@ -1,5 +1,7 @@
 # markdown<br>
 ## head<br>
-# \#text<br>
+\# text<br>
 ## bold<br>
-**\*\*text\*\***<br>
+\*\*text\*\*<br>
+## link<br>
+\[link\]('url')<br>
