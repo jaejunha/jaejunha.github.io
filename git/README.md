@@ -14,5 +14,7 @@ If you use "git reset" command, then you use "git push 'alias' +'branch'" comman
 
 **revert**<br>
 It reverts codes, and gives a log which contains message related to revert command.<br>
-  
+<br>
+## git clean -dfx<br>
+It removes untracked files<br>
 
