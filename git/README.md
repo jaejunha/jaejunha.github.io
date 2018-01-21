@@ -1,4 +1,4 @@
-# git<br>
+# Git<br>
 ## "reset" vs "revert"<br>
 **reset**<br>
 It can clean your log. However, when you use it with other developers, it can cause some conflicts. So, I think it is best to use "git reset" at personal project.<br>
