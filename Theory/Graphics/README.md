@@ -25,4 +25,8 @@
 - 6 (2018.02.03)  
   - **Depth Buffer**
   - 물체가 **가깝고 멀고를 표현**하기 위해 z 값을 저장하는 버퍼  
-- 3 extrapolation, raster, 베지어 곡선, blending 등  
+- 7 (2018.02.04)  
+  - **Raster Graphics**  
+  - 비트맵이라고도 불리며, **사각형 구조**의 픽셀들로 이루어진 이미지  
+- 8 벡터하기
+- extrapolation, 베지어 곡선, blending 등  
