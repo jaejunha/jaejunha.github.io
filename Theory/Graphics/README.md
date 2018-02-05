@@ -29,4 +29,4 @@
   - **Raster Graphics**  
   - 비트맵이라고도 불리며, **사각형 구조**의 픽셀들로 이루어진 이미지  
 - 8 벡터하기
-- extrapolation, 베지어 곡선, blending 등  
+- extrapolation, 베지어 곡선, blending, curling 등  
