@@ -13,6 +13,9 @@
 - 4 (2018.02.04)  
   - **Get lost!**  
   - **꺼져**  
+- 5 (2018.02.06)  
+  - **Hang in there**  
+  - **잘 견뎌 주세요**  
 ## Writing sentences  
 - 1 (2018.01.28)  
   - I work out **every other day**  
