@@ -35,3 +35,6 @@
 - 6 (2018.02.05)  
   - I** get in touch with** him  
   - 나는 그에게 **연락했다.**  
+- 7 (2018.02.07)  
+  - I **haven't eaten** this delcious food **for so long!**  
+  - 나는 이 음식을 오랜만에 먹는다.  
