@@ -16,6 +16,9 @@
 - 5 (2018.02.06)  
   - **Hang in there**  
   - **잘 견뎌 주세요**  
+- 6 (2018.02.08)  
+  - **I'm touched**  
+  - **나는 감동 받았어요**  
 ## Writing sentences  
 - 1 (2018.01.28)  
   - I work out **every other day**  

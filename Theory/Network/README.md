@@ -12,4 +12,10 @@
   - 전화를 할 수 있도록 전화케이블을 전국에 설치한 망  
   - 전화시 그 대상에 대한 회로가 만들어 짐  
   - 전화 동안 QoS(품질) 보장  
+- 3 (2018.02.08) 
+  - https://en.wikipedia.org/wiki/Content_centric_networking   
+  - **CCN**  
+  - **Concent Centric Network**의 약어  
+  - In constrast to IP-based, host-oriented, it uses **content** : it communicates based on named data  
+  - Content Object messages are named payloads  
 - Wifi, LTE, CCN, SDN, DASH, ROI등 정리하기  
