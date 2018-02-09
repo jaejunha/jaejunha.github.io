@@ -28,11 +28,16 @@
 - 7 (2018.02.04, 02.07)  
   - **Raster Graphics**  
   - 비트맵이라고도 불리며, **사각형 구조**의 픽셀들로 이루어진 이미지  
-  - 파일 확장자로는 jpeg, png, mpeg4 등이 많이 쓰입니다.  
+  - 파일 확장자로는 jpeg, png 등이 많이 쓰입니다.  
 - 8 (2018.02.07)  
   - **Vector Graphics**  
   - **점과 선을 수학적으로 표현**하여 이미지를 저장합니다  
   - 확대 해도 깨지지 않는 장점이 있습니다.  
   - 파일 확장자로는 svg, eps, pdf로 많이 쓰입니다.  
-  - **색상의 표현에 제약**이 있어, 고해상도의 경우는 Vector 보다는 Raster를 주로 사용합니다.  
-- extrapolation, 베지어 곡선, blending, curling 등  
+  - **색상의 표현에 제약**이 있어, 고해상도의 경우는 Vector 보다는 Raster를 주로 사용합니다.   
+ - 9 (2018.02.09)  
+  - **Curling**  
+  - http://lonpeach.com/2017/11/08/3d-Graphics-Culling/  
+  - 카메라에 **보이지 않는 부분을 제거**하는 작업  
+  - 컬링이랑 스텐실 차이가?  
+- extrapolation, 베지어 곡선, blending, clipping 등  

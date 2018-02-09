@@ -41,3 +41,6 @@
 - 7 (2018.02.07)  
   - I **haven't eaten** this delcious food **for so long!**  
   - 나는 이 음식을 오랜만에 먹는다.  
+- 8 (2018.02.09)  
+  - It is **not suitable** for me  
+  - 이것은 나에게 **적합하지 않습니다.**  
