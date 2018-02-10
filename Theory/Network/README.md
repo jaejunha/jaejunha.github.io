@@ -18,4 +18,12 @@
   - **Concent Centric Network**의 약어  
   - In constrast to IP-based, host-oriented, it uses **content** : it communicates based on named data  
   - Content Object messages are named payloads  
-- Wifi, LTE, CCN, SDN, DASH, ROI등 정리하기  
+- 4 (2018.02.10)  
+  - **SDN**  
+  - https://ko.wikipedia.org/wiki/스프트웨어_정의_네트워킹  
+  - 소프트웨어 정의 네트워킹(Software Defined Networking)  
+  - Open API Open Flow를 통해 트래픽 전달 동작을 SDN Controller에서 제어/관리
+  - Control Plane과 Data Plane으로 분리  
+    - Control Plane : 트래픽 경로 지정  
+    - Data Palne : 트래픽 전송 수행  
+- Wifi, LTE, DASH, ROI등 정리하기  

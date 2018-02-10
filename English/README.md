@@ -19,6 +19,12 @@
 - 6 (2018.02.08)  
   - **I'm touched**  
   - **나는 감동 받았어요**  
+- 7 (2018.02.10)  
+  - **How about** pizza  
+  - 피자 먹는건 **어때?**(제안의 의미)  
+- 8 (2018.02.10)  
+  - **Have you ever been** to Pusan  
+  - 부산에 **가본 적** 있어요?  
 ## Writing sentences  
 - 1 (2018.01.28)  
   - I work out **every other day**  
@@ -36,7 +42,7 @@
   - I run **on March the 9th, at gym**.  
   - 나는 **5월 9일 체육관에서** 달렸다.  
 - 6 (2018.02.05)  
-  - I** get in touch with** him  
+  - I **get in touch with** him  
   - 나는 그에게 **연락했다.**  
 - 7 (2018.02.07)  
   - I **haven't eaten** this delcious food **for so long!**  
