@@ -15,7 +15,7 @@
 - 3 (2018.02.08) 
   - https://en.wikipedia.org/wiki/Content_centric_networking   
   - **CCN**  
-  - **Concent Centric Network**의 약어  
+  - **Content Centric Network**의 약어  
   - In constrast to IP-based, host-oriented, it uses **content** : it communicates based on named data  
   - Content Object messages are named payloads  
 - 4 (2018.02.10)  
