@@ -22,8 +22,13 @@
   - **SDN**  
   - https://ko.wikipedia.org/wiki/스프트웨어_정의_네트워킹  
   - 소프트웨어 정의 네트워킹(Software Defined Networking)  
-  - Open API Open Flow를 통해 트래픽 전달 동작을 SDN Controller에서 제어/관리
+  - Open API Open Flow를 통해 트래픽 전달 동작을 SDN Controller에서 제어/관리  
   - Control Plane과 Data Plane으로 분리  
     - Control Plane : 트래픽 경로 지정  
     - Data Palne : 트래픽 전송 수행  
-- Wifi, LTE, DASH, ROI등 정리하기  
+- 5 (2018.02.12)  
+- **ROI**  
+  - **Region of Interest**의 약어  
+  - 주로 medical imaging에 쓰입니다  
+  - 여러 데이터들이 있으면, 특정 구간을 집중해서 보겠다는 의미입니다  
+- Wifi, LTE, DASH, WSN 정리하기  

@@ -25,6 +25,12 @@
 - 8 (2018.02.10)  
   - **Have you ever been** to Pusan  
   - 부산에 **가본 적** 있어요?  
+- 9 (2018.02.12)  
+  - She **got blacked out** yesterday  
+  - 그녀는 어제 **필름이 끊켰어**  
+- 10 (2018.02.12)  
+  - **Absolutely** / **You bet**  
+  - **물론**  
 ## Writing sentences  
 - 1 (2018.01.28)  
   - I work out **every other day**  
@@ -50,3 +56,6 @@
 - 8 (2018.02.09)  
   - It is **not suitable** for me  
   - 이것은 나에게 **적합하지 않습니다.**  
+- 9 (2018.02.11)  
+  - It **is not applicable to** resource  
+  - 이것은 자원에 적용될 수 없습니다.  
