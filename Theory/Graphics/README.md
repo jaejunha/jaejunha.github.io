@@ -27,7 +27,7 @@
   - **눈의 착시 현상**으로 인해 일반 출력처럼 보이고, 효과로 **대역폭을 반감**시킬 수 있습니다.  
   - 요즘에는 잘 쓰이지 않습니다.  
 - 7 (2018.02.02)  
-  - **Progressive scanning**  
+  - **Progressive Scanning**  
   - Interlace와 달리 화면에 표시할 내용을 다 표시  
   - Interlace와 비교시 깜박임이 적어 선명한 영상 표현 가능  
 - 8 (2018.02.04, 02.07)  
@@ -40,11 +40,19 @@
   - 확대 해도 이미지가 깨지지 않는 장점이 있습니다.  
   - 파일 확장자로는 svg, eps, pdf로 많이 쓰입니다.  
   - **색상의 표현에 제약**이 있어, 고해상도의 경우는 Vector 보다는 Raster를 주로 사용합니다.  
-- 10 (2018.02.12)
+- 10 (2018.02.11)
   - **Bezier Curve**  
   - http://nfx.co.kr/techpaper/keyword_view.asp?idx=286  
+  - http://visualize.tistory.com/438  
   - **매개변수 곡선**의 일종, 이 곡선을 3차원으로 확장시킨 것이 **Bezier Surface**  
   - <u>유연한 곡선</u>을 표현할 수 있습니다.  
   - **Control Point**와 **Bernstein Basis Polynomials**들을 통해 곡선이 정의  
   - 만일 Control Point가 n개라면 <u>곡선의 차수는 n-1개</u>  
-- extrapolation, B-spline, blending, clipping, 퐁쉐이딩, 그러드 쉐이딩 등  
+- 11 (2018.02.13)  
+- **B-Spline Curve**
+- 모든 스플라인 함수들을 표현할 수 있는 **기저** 스플라인  
+- 베지어 곡선의 일반형  
+- Control Point와 Basis B-Spline Function들의 선형 조합으로 표현할 수 있습니다.  
+- 차수를 증가시키지 않아도, **다수의 Control Point**를 정할 수 있습니다.  
+- extrapolation,NURB curve, blending, clipping, 퐁쉐이딩, 그러드 쉐이딩 등  
+

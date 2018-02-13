@@ -59,3 +59,6 @@
 - 9 (2018.02.11)  
   - It **is not applicable to** resource  
   - 이것은 자원에 적용될 수 없습니다.  
+- 10 (2018.02.13)  
+  - He is **by no means** superman  
+  - 그는 슈퍼맨이 **결코 아니다.**  
