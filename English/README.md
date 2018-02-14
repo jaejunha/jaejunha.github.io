@@ -31,6 +31,12 @@
 - 10 (2018.02.12)  
   - **Absolutely** / **You bet**  
   - **물론**  
+- 11 (2018.02.14)  
+  - **Let's get down to business**  
+  - **본론으로 들어갑시다**  
+- 12 (2018.02.14)  
+  - **Money talks**  
+  - **결국 돈이지**  
 ## Writing sentences  
 - 1 (2018.01.28)  
   - I work out **every other day**  

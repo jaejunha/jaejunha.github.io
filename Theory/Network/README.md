@@ -27,8 +27,22 @@
     - Control Plane : 트래픽 경로 지정  
     - Data Palne : 트래픽 전송 수행  
 - 5 (2018.02.12)  
-- **ROI**  
+  - **ROI**  
   - **Region of Interest**의 약어  
   - 주로 medical imaging에 쓰입니다  
   - 여러 데이터들이 있으면, 특정 구간을 집중해서 보겠다는 의미입니다  
-- Wifi, LTE, DASH, WSN 정리하기  
+- 6 (2018.02.14)  
+  - https://www.sdxcentral.com/projects/ovn-open-virtual-network/  
+  - **OVN**  
+  - **Open Virtual Network**의 약어  
+  - OVN is a new **network virtualization project** made by OVS(Open vSwitch) team  
+  - it provies...  
+    - Layer-2 (switching)  
+    - Layer-3 (routing)  
+    - DHCP  
+    - Metatdata  
+- 7 (2018.02.14)  
+  - https://nginx.org/en/  
+  - **nginx**  
+  -  HTTP server, mail proxy server, TCP/UDP proxy server  
+- Wifi, LTE, DASH, WSN, NFV 정리하기  
