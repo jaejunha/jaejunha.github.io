@@ -68,3 +68,10 @@
 - 10 (2018.02.13)  
   - He is **by no means** superman  
   - 그는 슈퍼맨이 **결코 아니다.**  
+- 11 (2018.02.15)  
+
+## Words  
+- 1 (2018.02.15)  
+  - http://www.dictionary.com/browse/ornithology  
+  - **barred** : striped, ornithology  
+  - **ornithology** : the branch of zoology that deals with birds  

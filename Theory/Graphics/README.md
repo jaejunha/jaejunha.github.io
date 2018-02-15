@@ -49,10 +49,16 @@
   - **Control Point**와 **Bernstein Basis Polynomials**들을 통해 곡선이 정의  
   - 만일 Control Point가 n개라면 <u>곡선의 차수는 n-1개</u>  
 - 11 (2018.02.13)  
-- **B-Spline Curve**
-- 모든 스플라인 함수들을 표현할 수 있는 **기저** 스플라인  
-- 베지어 곡선의 일반형  
-- Control Point와 Basis B-Spline Function들의 선형 조합으로 표현할 수 있습니다.  
-- 차수를 증가시키지 않아도, **다수의 Control Point**를 정할 수 있습니다.  
+  - **B-Spline Curve**
+  - 모든 스플라인 함수들을 표현할 수 있는 **기저** 스플라인  
+  - 베지어 곡선의 일반형  
+  - Control Point와 Basis B-Spline Function들의 선형 조합으로 표현할 수 있습니다.  
+  - 차수를 증가시키지 않아도, **다수의 Control Point**를 정할 수 있습니다.  
+- 12 (2018.02.15)  
+  - https://ko.wikipedia.org/wiki/비균일_유리_B-스플라인  
+  - **NURBS curve**  
+  - **Non-Uniform Rational B-Spline**의 약어  
+  - 3차원 geometry를 수학적으로 표현하는 방법 중 하나, 유연성과 정밀성 때문에 곡면의 물체를 생산하는 산업에 많이 사용됩니다.  
+  - **Knot**이란 개념이 추가되었습니다. 곡선의 차수에 컨트롤 포인트의 개수를 더한 후 1을 뺀 수들의 목록  
 - extrapolation,NURB curve, blending, clipping, 퐁쉐이딩, 그러드 쉐이딩 등  
 
