@@ -1,3 +1,7 @@
+---
+layout: default 
+---
+
 # Graphics  
 ## Word  
 - 1 (2018.01.28~29)  

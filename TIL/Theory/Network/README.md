@@ -1,3 +1,7 @@
+---
+layout: default 
+---
+
 # Network  
 ## Word  
 - 1 (2018.02.05)  

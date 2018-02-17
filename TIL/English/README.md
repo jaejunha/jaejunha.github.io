@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # English  
 ## Speaking sentences  
 *study from http://dreamingdean.tistory.com/17*
