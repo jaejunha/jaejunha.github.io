@@ -54,11 +54,17 @@
   - 베지어 곡선의 일반형  
   - Control Point와 Basis B-Spline Function들의 선형 조합으로 표현할 수 있습니다.  
   - 차수를 증가시키지 않아도, **다수의 Control Point**를 정할 수 있습니다.  
-- 12 (2018.02.15)  
+- 12 (2018.02.15, 02.17)  
   - https://ko.wikipedia.org/wiki/비균일_유리_B-스플라인  
+  - https://www.rhino3d.com/kr/nurbs  
   - **NURBS curve**  
   - **Non-Uniform Rational B-Spline**의 약어  
   - 3차원 geometry를 수학적으로 표현하는 방법 중 하나, 유연성과 정밀성 때문에 곡면의 물체를 생산하는 산업에 많이 사용됩니다.  
-  - **Knot**이란 개념이 추가되었습니다. 곡선의 차수에 컨트롤 포인트의 개수를 더한 후 1을 뺀 수들의 목록  
-- extrapolation,NURB curve, blending, clipping, 퐁쉐이딩, 그러드 쉐이딩 등  
+  - **Knot**이란 개념이 추가되었습니다. knot는 **degree + number of control points - 1** 수들의 목록입니다.  
+  - knot 값이 중복 된 수를 **knot의 multiplicity**라고 합니다.  
+  - 매듭점 목록 **중간에 multiplicity가 있으면** NURBS는 **덜 매끄럽습니다.**  
+  - **order(계수)**와 **degree(차수)** 구분하기, order = degree + 1  
+  - **control point >= degree + 1**(차수+1보다 같거나 크다)  
+  - 각 control point는 각각의 **weight**를 가짐, 만일 weight가 모두 **동일하다면 non-rational**이라 하며, weight 값이 **다르면 rational** 이라고 함  
+- extrapolation, blending, clipping, 퐁쉐이딩, 그러드 쉐이딩, rhino3d 등  
 

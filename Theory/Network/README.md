@@ -45,4 +45,10 @@
   - https://nginx.org/en/  
   - **nginx**  
   -  HTTP server, mail proxy server, TCP/UDP proxy server  
-- Wifi, LTE, DASH, WSN, NFV 정리하기  
+- 8 (2018.02.16)  
+  - http://www.itworld.co.kr/news/86025  
+  - **NFV**  
+  - **Network Function Virtualization**의 약어  
+  - 네트워크 가상화는 기존 네트워크에서 **여러 논리적 네트워크로 분할**, ex) 하드웨어에서 여러 파티션으로 나누는 것과 비슷  
+  - 네트워크 가상화 외에 **네트워크 서비스**까지 가상화, 방화벽. 예를들면, 로드 밸런싱 등까지 가상화  
+- Wifi, LTE, DASH, WSN, NFV, IDS, IPS, 오버프로비저닝 정리하기  

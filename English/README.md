@@ -37,6 +37,13 @@
 - 12 (2018.02.14)  
   - **Money talks**  
   - **결국 돈이지**  
+- 13 (2018.02.16)  
+  - **None of your business**  
+  - **너나 잘 하세요**  
+- 14 (2018.02.16)  
+  - **Put yourself in my shoes**  
+  - **입장을 바꿔서 생각해봐**  
+  - 
 ## Writing sentences  
 - 1 (2018.01.28)  
   - I work out **every other day**  
@@ -69,7 +76,11 @@
   - He is **by no means** superman  
   - 그는 슈퍼맨이 **결코 아니다.**  
 - 11 (2018.02.15)  
-
+  - It works **by means of** a pulley  
+  - 이 것은 도르래에 **의해** 동작합니다.  
+- 12 (2018.02.17)  
+  - **By all means**, I finish my work  
+  - **확실히**, 나는 내 일을 끝냈다.  
 ## Words  
 - 1 (2018.02.15)  
   - http://www.dictionary.com/browse/ornithology  
