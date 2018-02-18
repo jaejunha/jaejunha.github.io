@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default 
 ---
 
 # TIL   
@@ -13,4 +13,16 @@ layout: default
   
 ## Postech MCNL   
 - [Seminar]()  
-- [Daily]()  
+- [Daily]() 
+ 
+---
+# Post  
+<ul>
+{% for post in site.posts %}
+	<li>
+	<a href="{{ post.url }}">{{ post.title }}
+	<span style="float:right;"><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d, %Y" }}</time></span>
+	</a>
+	</li>
+{% endfor %}
+</ul>
