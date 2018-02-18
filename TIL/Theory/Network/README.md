@@ -55,4 +55,12 @@ layout: default
   - **Network Function Virtualization**의 약어  
   - 네트워크 가상화는 기존 네트워크에서 **여러 논리적 네트워크로 분할**, ex) 하드웨어에서 여러 파티션으로 나누는 것과 비슷  
   - 네트워크 가상화 외에 **네트워크 서비스**까지 가상화, 방화벽. 예를들면, 로드 밸런싱 등까지 가상화  
-- Wifi, LTE, DASH, WSN, NFV, IDS, IPS, 오버프로비저닝 정리하기  
+- 9 (2018.02.18)  
+  - https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP  
+  - **DASH**  
+  - **Dynamic Adaptive Streaming over HTTP**의 약어  
+  - MPEG-DASH라고도 불림  
+  - HTTP content will be broken into small HTTP-based file segments.  
+  - DASH client automatically selects next segment based on current network condition.  
+  
+- Wifi, LTE, WSN, NFV, IDS, IPS, 오버프로비저닝 정리하기  

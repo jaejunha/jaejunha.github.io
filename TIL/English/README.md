@@ -47,7 +47,13 @@ layout: default
 - 14 (2018.02.16)  
   - **Put yourself in my shoes**  
   - **입장을 바꿔서 생각해봐**  
-  - 
+- 15 (2018.02.18)  
+  - **Suit yourself**  
+  - **니 맘대로 하세요**  
+- 15 (2018.02.18)  
+  - **Sue me!**  
+  - **배째!**  
+
 ## Writing sentences  
 - 1 (2018.01.28)  
   - I work out **every other day**  
@@ -85,6 +91,7 @@ layout: default
 - 12 (2018.02.17)  
   - **By all means**, I finish my work  
   - **확실히**, 나는 내 일을 끝냈다.  
+
 ## Words  
 - 1 (2018.02.15)  
   - http://www.dictionary.com/browse/ornithology  
