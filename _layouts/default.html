@@ -56,5 +56,16 @@
         ga('send', 'pageview');
     </script>
   {% endif %}
+  {% if page.url != '/' %}
+  <div style="position:fixed;right:20px;border: 1px solid #787878;border-radius:5px;">
+    <center>
+      <span style="padding:5px 5px 0px 5px;">Navigation bar</span><br>
+      <hr style="margin:0px; border:1px solid #878787;">
+      <a href="/" style="color:#ababab;">Main</a><br>
+      <hr style="margin:0px">
+      <a href="/" style="color:#ababab;">List</a>
+    </center>
+  </div>
+  {% endif %}
   </body>
 </html>
