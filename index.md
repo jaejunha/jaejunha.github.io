@@ -2,13 +2,15 @@
 layout: default
 ---
 
-Englsh  
+# TIL   
+---
+## Englsh   
 - [English](TIL/English/README)  
   
-Theory  
+## Theory   
 - [Graphics](TIL/Theory/Graphics/README)  
 - [Network](TIL/Theory/Network/README)  
   
-Postech MCNL  
+## Postech MCNL   
 - [Seminar]()  
 - [Daily]()  
