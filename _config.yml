@@ -2,3 +2,9 @@ title: <img src="https://avatars1.githubusercontent.com/u/7951335?v=4" style="bo
 description: <hr>TIL is abbreviation for Today I Learned.<br>I upload what I study in Software.
 show_downloads: true
 theme: jekyll-theme-minimal
+
+#Collections
+collections:
+ MCNL:
+  output: true
+  permalink: /:collection/:path/

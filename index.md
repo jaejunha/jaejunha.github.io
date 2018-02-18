@@ -4,25 +4,25 @@ layout: default
 
 # TIL   
 ---
-## Englsh   
+## Daily Study  
 - [English](TIL/English/README)  
-  
-## Theory   
 - [Graphics](TIL/Theory/Graphics/README)  
 - [Network](TIL/Theory/Network/README)  
   
-## Postech MCNL   
-- [Seminar]()  
-- [Daily]() 
- 
+## Programming  
+- [?]()  
+
 ---
-# Post  
+# Log  
 <ul>
-{% for post in site.posts %}
-	<li>
-	<a href="{{ post.url }}">{{ post.title }}
-	<span style="float:right;"><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d, %Y" }}</time></span>
-	</a>
+{% assign posts = site.MCNL | sort: 'date' | reverse %}
+{% for post in posts limit: 10 %}
+        <li>
+		<a href="{{ post.url }}">{{ post.tag }}
+        	<span style="float:right;"><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d, %Y" }}</time></span>
+        	</a>
 	</li>
 {% endfor %}
 </ul>
+<h3><a style="color:#787878;float:right;" href="#">+more logs</a></h3>
+

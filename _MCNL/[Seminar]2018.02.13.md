@@ -1,5 +1,11 @@
-# 2018.02.13.Tue<br>
-## Words
+---
+layout: post
+tag: Seminar
+author: dreamline91
+date: 2018.02.13.Tue
+---
+
+# Words
 **YUV**  
 **VGA**  
 **libjpeg**  
@@ -23,5 +29,5 @@
 **MCCN**  
 **OVS**  
 **Rator Code**  
-## Feedback  
+# Feedback  
 Nothing(because of printer)  
