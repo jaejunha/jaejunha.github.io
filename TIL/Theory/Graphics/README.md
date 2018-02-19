@@ -21,6 +21,11 @@ layout: default
   - 3D triangular mesh를 편집하는 Open Source 소프트웨어  
   - 주로 렌더링 하는 프로그램은 아닙니다.  
   - page : http://www.meshlab.net/   
+- 13 (2018.02.19)  
+  - https://ko.wikipedia.org/wiki/라이노세로스_3D  
+  - **rhino 3d**  
+  - 3D modeling program based on NURBS curve   
+  - It focus on freeform surface, curbe(most softwares focus on polygon mesh)  
 - 5 (2018.01.31)  
   - **Antialiasing**
   - 알리아싱 상태는 이미지의 픽셀들의 경계가 뚜렷하게 보이는 현상입니다.  
@@ -70,5 +75,6 @@ layout: default
   - **order(계수)**와 **degree(차수)** 구분하기, order = degree + 1  
   - **control point >= degree + 1**(차수+1보다 같거나 크다)  
   - 각 control point는 각각의 **weight**를 가짐, 만일 weight가 모두 **동일하다면 non-rational**이라 하며, weight 값이 **다르면 rational** 이라고 함  
-- extrapolation, blending, clipping, 퐁쉐이딩, 그러드 쉐이딩, rhino3d 등  
+
+- extrapolation, blending, clipping, 퐁쉐이딩, 그러드 쉐이딩, CAD 등  
 

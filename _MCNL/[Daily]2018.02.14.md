@@ -1,5 +1,12 @@
-# 2018.02.14.Wed   
-## Contents   
+---
+layout: post
+tag: Daily
+author: dreamline91
+date: 2018.02.14.Wed
+---
+
+# Contents
+
 10:00 ~ 10:15 : modify personal codes  
 10:15 ~ 11:00 : nothing  
 11:00 ~ 12:00 : study **compression book**  

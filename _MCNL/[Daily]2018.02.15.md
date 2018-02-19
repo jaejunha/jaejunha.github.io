@@ -1,5 +1,12 @@
-# 2018.02.15.Thu   
-## Contents   
+---
+layout: post
+tag: Daily
+author: dreamline91
+date: 2018.02.15.Thu
+---
+
+# Contents
+
 14:15 ~ 14:30 : write **TIL**  
 14:30 ~ 15:00 : go to dormitory to bring materials  
 15:00 ~ 16:15 : study **compression book**  

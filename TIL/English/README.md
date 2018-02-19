@@ -91,6 +91,9 @@ layout: default
 - 12 (2018.02.17)  
   - **By all means**, I finish my work  
   - **확실히**, 나는 내 일을 끝냈다.  
+- 13 (2018.02.19)  
+  - I am not the rich **by any means**   
+  - 나는 **전혀** 부자가 아닙니다.  
 
 ## Words  
 - 1 (2018.02.15)  
