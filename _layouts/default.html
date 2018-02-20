@@ -1,4 +1,4 @@
-<!doctype html>
+<doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="utf-8">
@@ -15,6 +15,7 @@
   <body>
     <div class="wrapper">
       <header>
+	<img src="{{ site.profile }}" style="border-radius:10px;">
         <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
@@ -24,7 +25,7 @@
 
         {% if site.show_downloads %}
           <ul>
-            <li><a href="http://dreamline91.xyz" target="_blank">Visit <strong>Home</strong></a></li>
+            <li><a href="{{site.home}}" target="_blank">Visit <strong>Home</strong></a></li>
             <li><a href="{{ site.github.owner_url }}" target="_blank">Visit <strong>GitHub</strong></a></li>
             <li><a href="">View On <strong>Profile</strong></a></li>
           </ul>
@@ -57,13 +58,17 @@
     </script>
   {% endif %}
   {% if page.url != '/' %}
-  <div style="position:fixed;right:20px;border: 1px solid #787878;border-radius:5px;">
+  <div style="position:fixed;right:50px;border: 1px solid #cdcdcd;border-radius:5px;background:#f4f4f4;">
     <center>
-      <span style="padding:5px 5px 0px 5px;">Navigation bar</span><br>
-      <hr style="margin:0px; border-color:#878787;color:#878787;background-color:#878787;">
-      <a href="/" style="color:#ababab;">Main</a><br>
+      <span style="padding:5px 5px 0px 5px;color:#222222;">Navigation bar</span><br>
+      <hr style="margin:0px; border-color:#ededed;color:#ededed;background-color:#ededed;">
+	<div style="background:#ffffff;">
+      		<a href="/" style="color:#ababab;">Main</a><br>
+	</div>
       <hr style="margin:0px">
-      <a href="/" style="color:#ababab;">List</a>
+	<div style="background:#ffffff;">
+     	 	<a href="/" style="color:#ababab;">List</a>
+    	</div>
     </center>
   </div>
   {% endif %}
