@@ -18,38 +18,38 @@ layout: default
   - 물체가 **가깝고 멀고를 표현**하기 위해 z 값을 저장하는 버퍼  
 - 4 (2018.01.30~2018.01.31)  
   - **MeshLab**  
-  - 3D triangular mesh를 편집하는 Open Source 소프트웨어  
+  - **3D triangular mesh를 편집**하는 Open Source 소프트웨어  
   - 주로 렌더링 하는 프로그램은 아닙니다.  
   - page : http://www.meshlab.net/   
-- 13 (2018.02.19)  
+- 5 (2018.02.19)  
   - https://ko.wikipedia.org/wiki/라이노세로스_3D  
   - **rhino 3d**  
-  - 3D modeling program based on NURBS curve   
-  - It focus on freeform surface, curbe(most softwares focus on polygon mesh)  
-- 5 (2018.01.31)  
+  - **3D modeling program** based on NURBS curve   
+  - It focus on **freeform surface**, **curbe**(most softwares focus on polygon mesh)  
+- 6 (2018.01.31)  
   - **Antialiasing**
   - 알리아싱 상태는 이미지의 픽셀들의 경계가 뚜렷하게 보이는 현상입니다.  
   - 안티 알리아싱은 이미지 **경계들을 부드럽게** 해주는 효과입니다.  
-- 6 (2018.02.01)  
+- 7 (2018.02.01)  
   - **Interlace**  
   - 영상을 **홀수와 짝수 가로줄로 나눠 번갈아가면서** 표시해주는 방식입니다.  
   - **눈의 착시 현상**으로 인해 일반 출력처럼 보이고, 효과로 **대역폭을 반감**시킬 수 있습니다.  
   - 요즘에는 잘 쓰이지 않습니다.  
-- 7 (2018.02.02)  
+- 8 (2018.02.02)  
   - **Progressive Scanning**  
   - Interlace와 달리 화면에 표시할 내용을 다 표시  
   - Interlace와 비교시 깜박임이 적어 선명한 영상 표현 가능  
-- 8 (2018.02.04, 02.07)  
+- 9 (2018.02.04, 02.07)  
   - **Raster Graphics**  
   - 비트맵이라고도 불리며, **사각형 구조**의 픽셀들로 이루어진 이미지  
   - 파일 확장자로는 jpeg, png 등이 많이 쓰입니다.  
-- 9 (2018.02.07)  
+- 10 (2018.02.07)  
   - **Vector Graphics**  
   - **점과 선을 수학적으로 표현**하여 이미지를 저장합니다  
   - 확대 해도 이미지가 깨지지 않는 장점이 있습니다.  
   - 파일 확장자로는 svg, eps, pdf로 많이 쓰입니다.  
   - **색상의 표현에 제약**이 있어, 고해상도의 경우는 Vector 보다는 Raster를 주로 사용합니다.  
-- 10 (2018.02.11)
+- 11 (2018.02.11)
   - **Bezier Curve**  
   - http://nfx.co.kr/techpaper/keyword_view.asp?idx=286  
   - http://visualize.tistory.com/438  
@@ -57,13 +57,13 @@ layout: default
   - <u>유연한 곡선</u>을 표현할 수 있습니다.  
   - **Control Point**와 **Bernstein Basis Polynomials**들을 통해 곡선이 정의  
   - 만일 Control Point가 n개라면 <u>곡선의 차수는 n-1개</u>  
-- 11 (2018.02.13)  
+- 12 (2018.02.13)  
   - **B-Spline Curve**
   - 모든 스플라인 함수들을 표현할 수 있는 **기저** 스플라인  
   - 베지어 곡선의 일반형  
   - Control Point와 Basis B-Spline Function들의 선형 조합으로 표현할 수 있습니다.  
   - 차수를 증가시키지 않아도, **다수의 Control Point**를 정할 수 있습니다.  
-- 12 (2018.02.15, 02.17)  
+- 13 (2018.02.15, 02.17)  
   - https://ko.wikipedia.org/wiki/비균일_유리_B-스플라인  
   - https://www.rhino3d.com/kr/nurbs  
   - **NURBS curve**  

@@ -40,7 +40,7 @@ layout: default
   - **OVN**  
   - **Open Virtual Network**의 약어  
   - OVN is a new **network virtualization project** made by OVS(Open vSwitch) team  
-  - it provies...  
+  - it provides...  
     - Layer-2 (switching)  
     - Layer-3 (routing)  
     - DHCP  
@@ -62,5 +62,11 @@ layout: default
   - MPEG-DASH라고도 불림  
   - HTTP content will be broken into small HTTP-based file segments.  
   - DASH client automatically selects next segment based on current network condition.  
+- 10 (2018.02.20)  
+  - https://en.wikipedia.org/wiki/Multipath_TCP  
+  - **MPTCP**  
+  - **Multipath TCP**의 약어  
+  - **자원 이용률을 최대화**하기 위하여 **하나의 TCP interface**에 **여러 TCP 연결**을 하여 **multiple path**를 만듦   
+  - 무선 인터넷 환경에 적합  
   
 - Wifi, LTE, WSN, NFV, IDS, IPS, 오버프로비저닝 정리하기  

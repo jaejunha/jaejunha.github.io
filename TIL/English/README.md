@@ -53,6 +53,9 @@ layout: default
 - 15 (2018.02.18)  
   - **Sue me!**  
   - **배째!**  
+- 16 (2018.02.20)  
+  - **How could you do that to me?**  
+  - **나한테 어떻게 그럴 수 있니?**  
 
 ## Writing sentences  
 - 1 (2018.01.28)  
