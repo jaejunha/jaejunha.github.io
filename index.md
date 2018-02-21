@@ -4,21 +4,30 @@ layout: default
 
 # TIL   
 ---
-## Daily Study  
-- [English](TIL/English/README)  
-- [Graphics](TIL/Theory/Graphics/README)  
-- [Network](TIL/Theory/Network/README)  
+## Language  
+- [English](/tag?value=English)  
+
+## Theory  
+- [Graphics](/tag?value=Graphics)  
+- [Network](/tag?value=Network)  
   
 ## Programming  
-- [?]()  
+- [Android](/tag?value=Android)  
+- [CSS](/tag?value=CSS)    
+- [jQuery](/tag?value=jQuery)  
+- [Markdown](/tag?value=Markdown)  
+- [Git](/tag?value=Git)  
+
+## OS  
+- [Kali](/tag?value=Kali)  
 
 ---
-# Log  
+# Recent  
 <ul>
-{% assign posts = site.MCNL | sort: 'date' | reverse %}
-{% for post in posts limit: 10 %}
+{% assign posts = site.TIL | sort: 'date' | reverse %}
+{% for post in posts limit: 5 %}
         <li>
-		<a href="{{ post.url }}">{{ post.tag }}
+		<a href="{{ post.url }}">[{{ post.tag }}]{{ post.title }}
         	<span style="float:right;"><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d, %Y" }}</time></span>
         	</a>
 	</li>

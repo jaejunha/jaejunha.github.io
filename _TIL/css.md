@@ -1,3 +1,10 @@
+---
+layout: post
+tag: CSS
+title: will be renamed
+date: 2018.02.21
+---
+
 # CSS<br>
 ## align image center<br>
 example code<br>

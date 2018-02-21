@@ -1,5 +1,8 @@
 ---
-layout: default 
+layout: post 
+tag: Graphics
+title: Daily study
+date: 2018.02.20
 ---
 
 # Graphics  

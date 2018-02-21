@@ -1,3 +1,10 @@
+---
+layout: post
+tag: Git
+title: Basic Syntax
+date: 2018.02.21
+---
+
 # Git<br>
 ## "reset" vs "revert"<br>
 **reset**<br>

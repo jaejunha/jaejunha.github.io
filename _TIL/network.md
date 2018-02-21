@@ -1,5 +1,8 @@
 ---
-layout: default 
+layout: post
+tag: Network
+title: Daily study
+date: 2018.02.20
 ---
 
 # Network  

@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: post
+tag: English
+title: Daily study
+date: 2018.02.20
 ---
 
 # English  

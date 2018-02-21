@@ -1,3 +1,10 @@
+---
+layout: post 
+tag: Markdown
+title: Basic Syntax
+date: 2018.02.21
+---
+
 # Markdown  
 ## head  
 \# text  

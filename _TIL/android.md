@@ -1,3 +1,10 @@
+---
+layout: post 
+tag: Android
+title: File Save & View Capture
+date: 2018.02.21
+---
+
 # Android
 ## File Save
 To save file, must give permission at AndroidManifest.xml

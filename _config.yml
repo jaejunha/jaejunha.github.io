@@ -1,14 +1,16 @@
 title: <center>Dreamline91's TIL</center>
-description: <hr>TIL is abbreviation for Today I Learned.<br>I upload what I study in Software.
+description: <hr>TIL is abbreviation for Today I Learned.<br>I upload what I study during graudate school.
 show_downloads: true
+author: dreamline91
 theme: jekyll-theme-minimal
 
 #Collections
 collections:
- MCNL:
+ TIL:
   output: true
   permalink: /:collection/:path/
 
 #etc
-profile: https://avatars1.githubusercontent.com/u/7951335?v=4
+avatar: https://avatars1.githubusercontent.com/u/7951335?v=4
 home: http://dreamline91.xyz
+profile: profile

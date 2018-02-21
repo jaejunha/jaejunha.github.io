@@ -15,7 +15,7 @@
   <body>
     <div class="wrapper">
       <header>
-	<img src="{{ site.profile }}" style="border-radius:10px;">
+	<img src="{{ site.avatar }}" style="border-radius:10px;">
         <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
@@ -27,7 +27,7 @@
           <ul>
             <li><a href="{{site.home}}" target="_blank">Visit <strong>Home</strong></a></li>
             <li><a href="{{ site.github.owner_url }}" target="_blank">Visit <strong>GitHub</strong></a></li>
-            <li><a href="">View On <strong>Profile</strong></a></li>
+            <li><a href="{{site.profile}}">View On <strong>Profile</strong></a></li>
           </ul>
         {% endif %}
       </header>
@@ -65,10 +65,12 @@
 	<div style="background:#ffffff;">
       		<a href="/" style="color:#ababab;">Main</a><br>
 	</div>
+    {% if page.tag %}
       <hr style="margin:0px">
 	<div style="background:#ffffff;">
-     	 	<a href="/" style="color:#ababab;">List</a>
+     	 	<a href="/tag?value={{ page.tag }}" style="color:#ababab;">List</a>
     	</div>
+    {% endif %}
     </center>
   </div>
   {% endif %}
