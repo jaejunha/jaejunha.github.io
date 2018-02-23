@@ -2,7 +2,7 @@
 layout: post 
 tag: Graphics
 title: Daily study
-date: 2018.02.20
+date: 2018.02.23
 ---
 
 # Graphics  
@@ -78,6 +78,19 @@ date: 2018.02.20
   - **order(계수)**와 **degree(차수)** 구분하기, order = degree + 1  
   - **control point >= degree + 1**(차수+1보다 같거나 크다)  
   - 각 control point는 각각의 **weight**를 가짐, 만일 weight가 모두 **동일하다면 non-rational**이라 하며, weight 값이 **다르면 rational** 이라고 함  
-
-- extrapolation, blending, clipping, 퐁쉐이딩, 그러드 쉐이딩, CAD 등  
+- 14 (2018.02.21)  
+  - https://virtualgl.org/About/Introduction  
+  - **VirtualGL**  
+  - **다른 네트워크**에 있는 **3D hardware acceleration**을 가진 **OpenGL** 프로그램을 **리눅스/유닉스**에서 실행할 수 있게 해주는 **오픈소스 프로그램**입니다.  
+  - 3D 데이터와 OpenGL명령어를 **어플리케이션 서버로 보내 처리**시키게 하며, **rendering 된 이미지만 클라이언트 측에서** 받도록 합니다.  
+- 15 (2018.2.23)  
+  - https://ko.wikipedia.org/wiki/그래픽_처리_장치   
+  - http://kr.nvidia.com/object/what-is-gpu-computing-kr.html  
+  - **GPU**  
+  - **Graphics Processing Unit**의 약어  
+  - 화면에 출력할 **프레임 버퍼 안의** 영상 생성을 가속 하도록 만들어진 장치  
+  - **CPU**는 **직렬 처리**에 적합하고 **GPU**는 **병렬 처리**에 적합합니다.  
+  - CPU는 몇개의 코어, GPU는 **수천개의 소형 코어**로 이루어져있습니다.   
+  
+- extrapolation, blending, clipping, 퐁쉐이딩, 그러드 쉐이딩, CAD, 텍스쳐, 버텍스 쉐이더, 지오메트리 쉐이더, 등...  
 

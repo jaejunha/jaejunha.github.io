@@ -2,7 +2,7 @@
 layout: post
 tag: English
 title: Daily study
-date: 2018.02.20
+date: 2018.02.23
 ---
 
 # English  
@@ -59,6 +59,9 @@ date: 2018.02.20
 - 16 (2018.02.20)  
   - **How could you do that to me?**  
   - **나한테 어떻게 그럴 수 있니?**  
+- 17 (2018.02.22)  
+  - **Which food do you like to cook**  
+  - **어떤 음식** 만들기를 좋아하니?  
 
 ## Writing sentences  
 - 1 (2018.01.28)  
@@ -100,7 +103,15 @@ date: 2018.02.20
 - 13 (2018.02.19)  
   - I am not the rich **by any means**   
   - 나는 **전혀** 부자가 아닙니다.  
-
+- 14 (2018.02.21)  
+  - I want to pass the test. **far from my expectation**, I fail to the test.  
+  - I order popular food. However, **that is absolutely different I expected**.  
+  - I check temperature. **That is out of expectation**.  
+  - **Unexpectedly**, I fail to pass the test.  
+- 15 (2018.02.23)  
+  - **The more** I draw paintings, **the more confused** I am.  
+  - **The more hungrier** he is, **the more** he eat  
+  
 ## Words  
 - 1 (2018.02.15)  
   - http://www.dictionary.com/browse/ornithology  

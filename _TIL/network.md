@@ -2,7 +2,7 @@
 layout: post
 tag: Network
 title: Daily study
-date: 2018.02.20
+date: 2018.02.22
 ---
 
 # Network  
@@ -71,5 +71,14 @@ date: 2018.02.20
   - **Multipath TCP**의 약어  
   - **자원 이용률을 최대화**하기 위하여 **하나의 TCP interface**에 **여러 TCP 연결**을 하여 **multiple path**를 만듦   
   - 무선 인터넷 환경에 적합  
+ - 11 (2018.02.22)  
+  - https://ko.wikipedia.org/wiki/비동기_전송_방식  
+  - https://www.techopedia.com/definition/5339/asynchronous-transfer-mode-atm  
+  - **ATM**  
+  - **Asynchronous Transfer Mode**의 약어  
+  - **Cell**이라는 **고정 길이 패킷**을 사용합니다(인터넷과 이더넷은 가변 길이를 사용합니다).  
+  - **Asynchronous time-division multiplexing** 방식을 사용합니다.  
+  - **실시간, 비실시간 서비스 모두** 가능합니다.  
+  - 음성과 같은 **CBR**과 압축 비디오 신호와 같은 **VBR**처리가 모두 가능합니다.  
   
 - Wifi, LTE, WSN, NFV, IDS, IPS, 오버프로비저닝 정리하기  
