@@ -33,5 +33,5 @@ layout: default
 	</li>
 {% endfor %}
 </ul>
-<h3><a style="color:#787878;float:right;" href="#">+more logs</a></h3>
+<h3><a style="color:#787878;float:right;" href="logs">+more logs</a></h3>
 
