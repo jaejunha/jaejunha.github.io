@@ -2,7 +2,7 @@
 layout: post
 tag: Network
 title: Daily study
-date: 2018.02.22
+date: 2018.02.24
 ---
 
 # Network  
@@ -80,5 +80,10 @@ date: 2018.02.22
   - **Asynchronous time-division multiplexing** 방식을 사용합니다.  
   - **실시간, 비실시간 서비스 모두** 가능합니다.  
   - 음성과 같은 **CBR**과 압축 비디오 신호와 같은 **VBR**처리가 모두 가능합니다.  
-  
+- 12 (2018.02.24)   
+  - https://ko.wikipedia.org/wiki/QoS  
+  - **QoS**  
+  - **Quality of Service**의 약어  
+  - **우선 순위**를 정하여, 네트워크 특정 수준의 **성능을 보장**  
+  - 
 - Wifi, LTE, WSN, NFV, IDS, IPS, 오버프로비저닝 정리하기  

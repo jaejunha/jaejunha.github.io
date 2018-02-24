@@ -2,12 +2,12 @@
 layout: post
 tag: English
 title: Daily study
-date: 2018.02.23
+date: 2018.02.24
 ---
 
 # English  
 ## Speaking sentences  
-*study from http://dreamingdean.tistory.com/17*
+study from [http://dreamingdean.tistory.com/17](http://dreamingdean.tistory.com/17)  
 - 1 (2018.01.29)  
   - **Help yourself**  
   - **마음껏 먹어**  
@@ -60,8 +60,11 @@ date: 2018.02.23
   - **How could you do that to me?**  
   - **나한테 어떻게 그럴 수 있니?**  
 - 17 (2018.02.22)  
-  - **Which food do you like to cook**  
+  - **Which food do you like to cook?**  
   - **어떤 음식** 만들기를 좋아하니?  
+- 18 (2018.02.24)  
+  - **How much do you earn a year?**  
+  - **1년에 얼마 벌어?**  
 
 ## Writing sentences  
 - 1 (2018.01.28)  
