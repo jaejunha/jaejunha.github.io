@@ -2,7 +2,7 @@
 layout: post
 tag: English
 title: Daily study
-date: 2018.02.24
+date: 2018.02.25
 ---
 
 # English  
@@ -114,7 +114,11 @@ study from [http://dreamingdean.tistory.com/17](http://dreamingdean.tistory.com/
 - 15 (2018.02.23)  
   - **The more** I draw paintings, **the more confused** I am.  
   - **The more hungrier** he is, **the more** he eat  
-  
+- 16 (2018.02.25)  
+  - Su Young is **more beautiful than** Ga Young(when word has 2syllable)  
+  - It is **more useful than** old thing   
+  - For **further** information, please contact me  
+
 ## Words  
 - 1 (2018.02.15)  
   - http://www.dictionary.com/browse/ornithology  

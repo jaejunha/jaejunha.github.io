@@ -71,7 +71,7 @@ date: 2018.02.24
   - **Multipath TCP**의 약어  
   - **자원 이용률을 최대화**하기 위하여 **하나의 TCP interface**에 **여러 TCP 연결**을 하여 **multiple path**를 만듦   
   - 무선 인터넷 환경에 적합  
- - 11 (2018.02.22)  
+- 11 (2018.02.22)  
   - https://ko.wikipedia.org/wiki/비동기_전송_방식  
   - https://www.techopedia.com/definition/5339/asynchronous-transfer-mode-atm  
   - **ATM**  
@@ -85,5 +85,5 @@ date: 2018.02.24
   - **QoS**  
   - **Quality of Service**의 약어  
   - **우선 순위**를 정하여, 네트워크 특정 수준의 **성능을 보장**  
-  - 
+  - ​
 - Wifi, LTE, WSN, NFV, IDS, IPS, 오버프로비저닝 정리하기  

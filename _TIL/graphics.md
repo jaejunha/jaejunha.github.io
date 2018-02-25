@@ -2,7 +2,7 @@
 layout: post 
 tag: Graphics
 title: Daily study
-date: 2018.02.23
+date: 2018.02.25
 ---
 
 # Graphics  
@@ -91,6 +91,12 @@ date: 2018.02.23
   - 화면에 출력할 **프레임 버퍼 안의** 영상 생성을 가속 하도록 만들어진 장치  
   - **CPU**는 **직렬 처리**에 적합하고 **GPU**는 **병렬 처리**에 적합합니다.  
   - CPU는 몇개의 코어, GPU는 **수천개의 소형 코어**로 이루어져있습니다.   
-  
-- extrapolation, blending, clipping, 퐁쉐이딩, 그러드 쉐이딩, CAD, 텍스쳐, 버텍스 쉐이더, 지오메트리 쉐이더, 등...  
+- 16 (2018.2.25)  
+  - **Blending**  
+  - **mix two colors** to make another color  
+  - Each color consists of **Red, Green, Blue and Alpha(RGBA)**  
+  - There are two colores: **Source Color, Destination Color**  
+  - Through **Blending Parameters**, make various blending colors  
+
+- Pipeline, extrapolation, blending, clipping, 퐁쉐이딩, 그러드 쉐이딩, CAD, 텍스쳐, 버텍스 쉐이더, Fragment Shader, 지오메트리 쉐이더, 등...  
 
