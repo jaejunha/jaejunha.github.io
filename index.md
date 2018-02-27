@@ -16,6 +16,7 @@ layout: default
 - [CSS](/tag?value=CSS)    
 - [jQuery](/tag?value=jQuery)  
 - [Jekyll](/tag?value=Jekyll)  
+- [Django](/tag?value=Django)  
 - [Markdown](/tag?value=Markdown)  
 - [Git](/tag?value=Git)  
 
