@@ -2,7 +2,7 @@
 layout: post
 tag: Network
 title: Daily study
-date: 2018.02.24
+date: 2018.02.26
 ---
 
 # Network  
@@ -85,5 +85,13 @@ date: 2018.02.24
   - **QoS**  
   - **Quality of Service**의 약어  
   - **우선 순위**를 정하여, 네트워크 특정 수준의 **성능을 보장**  
-  - ​
+- 14 (2018.02.26)  
+  - https://blog.kollus.com/?p=116  
+  - **CBR, VBR, ABR**  
+  - **Constant Bit Rate**, **Variable Bit Rate**, **Available Bit Rate**의 약어  
+  - 적절한 Bit Rate를 사용하는 게 중요, Bit Rate가 **많다면 용량이 커집니다**.  
+  - **CBR** : 출력 속도를 **일정히**  
+  - **VBR** : 출력 속도를 **일정하지 않게**, **효율적**(데이터 많이 필요한곳에는 많이, 적게 필요한 곳에는 적게 할당)  
+  - **ABR** : 네트워크에서 **사용할 수 있는 주파수 대역에 따라** Bit Rate 조절(VBR처럼 속도가 일정하지는 않습니다)   
+
 - Wifi, LTE, WSN, NFV, IDS, IPS, 오버프로비저닝 정리하기  

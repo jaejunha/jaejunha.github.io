@@ -2,7 +2,7 @@
 layout: post
 tag: English
 title: Daily study
-date: 2018.02.25
+date: 2018.02.27
 ---
 
 # English  
@@ -65,6 +65,11 @@ study from [http://dreamingdean.tistory.com/17](http://dreamingdean.tistory.com/
 - 18 (2018.02.24)  
   - **How much do you earn a year?**  
   - **1년에 얼마 벌어?**  
+- 19 (2018.02.26)  
+  - **Oh, I see**  
+  - 몰랐던 사실을 이해하게 될 때 사용  
+  - **Oh, I know**  
+  - 알았던 사실을 들었을 때  
 
 ## Writing sentences  
 - 1 (2018.01.28)  
@@ -118,6 +123,9 @@ study from [http://dreamingdean.tistory.com/17](http://dreamingdean.tistory.com/
   - Su Young is **more beautiful than** Ga Young(when word has 2syllable)  
   - It is **more useful than** old thing   
   - For **further** information, please contact me  
+- 17 (2018.02.27)  
+  - I **ask** her **to draw** map  
+  - 나는 그녀에게 지도를 그리라고 **요청**했다.  
 
 ## Words  
 - 1 (2018.02.15)  

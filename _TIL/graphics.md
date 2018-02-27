@@ -2,7 +2,7 @@
 layout: post 
 tag: Graphics
 title: Daily study
-date: 2018.02.25
+date: 2018.02.27
 ---
 
 # Graphics  
@@ -97,6 +97,12 @@ date: 2018.02.25
   - Each color consists of **Red, Green, Blue and Alpha(RGBA)**  
   - There are two colores: **Source Color, Destination Color**  
   - Through **Blending Parameters**, make various blending colors  
+- 17 (2018.2.27)  
+  - https://en.wikipedia.org/wiki/Ray_tracing_(graphics)   
+  - **Ray Tracing**  
+  - make **glossy** image by **tracing path of light**  
+  - Generated image is like **real** object   
+  - **not** suited for **real time** image  
 
 - Pipeline, extrapolation, blending, clipping, 퐁쉐이딩, 그러드 쉐이딩, CAD, 텍스쳐, 버텍스 쉐이더, Fragment Shader, 지오메트리 쉐이더, 등...  
 
