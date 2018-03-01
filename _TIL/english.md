@@ -2,7 +2,7 @@
 layout: post
 tag: English
 title: Daily study
-date: 2018.02.27
+date: 2018.03.01
 ---
 
 # English  
@@ -70,6 +70,9 @@ study from [http://dreamingdean.tistory.com/17](http://dreamingdean.tistory.com/
   - 몰랐던 사실을 이해하게 될 때 사용  
   - **Oh, I know**  
   - 알았던 사실을 들었을 때  
+- 20 (2018.02.28)  
+  - Can I **call you back** tomorrow?  
+  - 내일 다시 전화해도 될까?  
 
 ## Writing sentences  
 - 1 (2018.01.28)  
@@ -126,6 +129,9 @@ study from [http://dreamingdean.tistory.com/17](http://dreamingdean.tistory.com/
 - 17 (2018.02.27)  
   - I **ask** her **to draw** map  
   - 나는 그녀에게 지도를 그리라고 **요청**했다.  
+- 18 (2018.03.01)  
+  - I must **be off**  
+  - 나는 **가야**한다.  
 
 ## Words  
 - 1 (2018.02.15)  

@@ -2,7 +2,7 @@
 layout: post 
 tag: Graphics
 title: Daily study
-date: 2018.02.27
+date: 2018.03.01
 ---
 
 # Graphics  
@@ -83,7 +83,7 @@ date: 2018.02.27
   - **VirtualGL**  
   - **다른 네트워크**에 있는 **3D hardware acceleration**을 가진 **OpenGL** 프로그램을 **리눅스/유닉스**에서 실행할 수 있게 해주는 **오픈소스 프로그램**입니다.  
   - 3D 데이터와 OpenGL명령어를 **어플리케이션 서버로 보내 처리**시키게 하며, **rendering 된 이미지만 클라이언트 측에서** 받도록 합니다.  
-- 15 (2018.2.23)  
+- 15 (2018.02.23)  
   - https://ko.wikipedia.org/wiki/그래픽_처리_장치   
   - http://kr.nvidia.com/object/what-is-gpu-computing-kr.html  
   - **GPU**  
@@ -91,18 +91,24 @@ date: 2018.02.27
   - 화면에 출력할 **프레임 버퍼 안의** 영상 생성을 가속 하도록 만들어진 장치  
   - **CPU**는 **직렬 처리**에 적합하고 **GPU**는 **병렬 처리**에 적합합니다.  
   - CPU는 몇개의 코어, GPU는 **수천개의 소형 코어**로 이루어져있습니다.   
-- 16 (2018.2.25)  
+- 16 (2018.02.25)  
   - **Blending**  
   - **mix two colors** to make another color  
   - Each color consists of **Red, Green, Blue and Alpha(RGBA)**  
   - There are two colores: **Source Color, Destination Color**  
   - Through **Blending Parameters**, make various blending colors  
-- 17 (2018.2.27)  
+- 17 (2018.02.27)  
   - https://en.wikipedia.org/wiki/Ray_tracing_(graphics)   
   - **Ray Tracing**  
   - make **glossy** image by **tracing path of light**  
   - Generated image is like **real** object   
   - **not** suited for **real time** image  
+- 18 (2018.03.01)  
+  - https://www.plm.automation.siemens.com/global/ko/our-story/glossary/computer-aided-design-cad/12507  
+  - **CAD**  
+  - abbreviate for **Computer-Aided Design**  
+  - Tool which can make **2D or 3D images**  
+  - It is used to design and develop products  
 
-- Pipeline, extrapolation, blending, clipping, 퐁쉐이딩, 그러드 쉐이딩, CAD, 텍스쳐, 버텍스 쉐이더, Fragment Shader, 지오메트리 쉐이더, 등...  
+- Pipeline, extrapolation, clipping, 퐁쉐이딩, 그러드 쉐이딩, 텍스쳐, 버텍스 쉐이더, Fragment Shader, 지오메트리 쉐이더, 등...  
 

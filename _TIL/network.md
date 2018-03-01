@@ -2,7 +2,7 @@
 layout: post
 tag: Network
 title: Daily study
-date: 2018.02.26
+date: 2018.02.28
 ---
 
 # Network  
@@ -93,5 +93,13 @@ date: 2018.02.26
   - **CBR** : 출력 속도를 **일정히**  
   - **VBR** : 출력 속도를 **일정하지 않게**, **효율적**(데이터 많이 필요한곳에는 많이, 적게 필요한 곳에는 적게 할당)  
   - **ABR** : 네트워크에서 **사용할 수 있는 주파수 대역에 따라** Bit Rate 조절(VBR처럼 속도가 일정하지는 않습니다)   
+- 15 (2018.02.28)  
+  - https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio  
+  - **PSNR**  
+  - abbreviation for **Peak Signal to Noise Ratio**  
+  - **ratio** between maximum power of **signal** and power of **noise**  
+  - used to meausre the **quality of reconstruction of lossy compression** codecs  
+  - **The High** value of PSNR is, **the high** quality of image is  
+  - It uses **Mean Squared Error**  
 
 - Wifi, LTE, WSN, NFV, IDS, IPS, 오버프로비저닝 정리하기  
