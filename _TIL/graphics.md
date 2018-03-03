@@ -2,7 +2,7 @@
 layout: post 
 tag: Graphics
 title: Daily study
-date: 2018.03.01
+date: 2018.03.03
 ---
 
 # Graphics  
@@ -109,6 +109,11 @@ date: 2018.03.01
   - abbreviate for **Computer-Aided Design**  
   - Tool which can make **2D or 3D images**  
   - It is used to design and develop products  
+- 19 (2018.03.03)  
+  - https://en.wikipedia.org/wiki/Extrapolation  
+  - **Extrapolation**  
+  - estimating **beyond view range**  
+  - It is **different from interpolation** in terms of view range   
 
-- Pipeline, extrapolation, clipping, 퐁쉐이딩, 그러드 쉐이딩, 텍스쳐, 버텍스 쉐이더, Fragment Shader, 지오메트리 쉐이더, 등...  
+- Pipeline, clipping, 퐁쉐이딩, 그러드 쉐이딩, 텍스쳐, 버텍스 쉐이더, Fragment Shader, 지오메트리 쉐이더, 등...  
 

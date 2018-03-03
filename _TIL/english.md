@@ -2,7 +2,7 @@
 layout: post
 tag: English
 title: Daily study
-date: 2018.03.01
+date: 2018.03.03
 ---
 
 # English  
@@ -73,6 +73,11 @@ study from [http://dreamingdean.tistory.com/17](http://dreamingdean.tistory.com/
 - 20 (2018.02.28)  
   - Can I **call you back** tomorrow?  
   - 내일 다시 전화해도 될까?  
+- 22 (2018.03.02)  
+  - **See you around**  
+  - I'll see you around  
+  - **Bye for now**  
+  - **Take care**  
 
 ## Writing sentences  
 - 1 (2018.01.28)  
@@ -132,6 +137,11 @@ study from [http://dreamingdean.tistory.com/17](http://dreamingdean.tistory.com/
 - 18 (2018.03.01)  
   - I must **be off**  
   - 나는 **가야**한다.  
+- 19 (2018.03.03)  
+  - Quarter **past** ten (10:15)  
+  - Ten **past** two (2:15)  
+  - Ten **to** nine (08:50)  
+  - one **o'clock** (1:00)  
 
 ## Words  
 - 1 (2018.02.15)  

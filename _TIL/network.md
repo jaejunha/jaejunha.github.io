@@ -2,7 +2,7 @@
 layout: post
 tag: Network
 title: Daily study
-date: 2018.02.28
+date: 2018.03.02
 ---
 
 # Network  
@@ -101,5 +101,10 @@ date: 2018.02.28
   - used to meausre the **quality of reconstruction of lossy compression** codecs  
   - **The High** value of PSNR is, **the high** quality of image is  
   - It uses **Mean Squared Error**  
+- 16 (2018.03.02)  
+  - https://en.wikipedia.org/wiki/Provisioning  
+  - **Provisioning**  
+  - Before use resoures, **prepare** them  
+  - There are many types in provisioning : Network Provisioning, Server Provisioning and etc...  
 
 - Wifi, LTE, WSN, NFV, IDS, IPS, 오버프로비저닝 정리하기  
