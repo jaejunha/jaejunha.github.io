@@ -2,7 +2,7 @@
 layout: post
 tag: English
 title: Daily study
-date: 2018.03.03
+date: 2018.03.05
 ---
 
 # English  
@@ -78,6 +78,9 @@ study from [http://dreamingdean.tistory.com/17](http://dreamingdean.tistory.com/
   - I'll see you around  
   - **Bye for now**  
   - **Take care**  
+- 23 (2018.03.04)  
+  - **Thanks for the history lesson**  
+  - **뒷북 치지마**
 
 ## Writing sentences  
 - 1 (2018.01.28)  
@@ -142,6 +145,9 @@ study from [http://dreamingdean.tistory.com/17](http://dreamingdean.tistory.com/
   - Ten **past** two (2:15)  
   - Ten **to** nine (08:50)  
   - one **o'clock** (1:00)  
+- 20 (2018.03.05)  
+  - I have a stomach ache. **That's why** I go to the hospital  
+  - I go to the hospital. **That's because** I have a stomach ache  
 
 ## Words  
 - 1 (2018.02.15)  

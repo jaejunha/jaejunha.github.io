@@ -2,7 +2,7 @@
 layout: post 
 tag: Graphics
 title: Daily study
-date: 2018.03.03
+date: 2018.03.05
 ---
 
 # Graphics  
@@ -114,6 +114,10 @@ date: 2018.03.03
   - **Extrapolation**  
   - estimating **beyond view range**  
   - It is **different from interpolation** in terms of view range   
+- 20 (2018.03.05)  
+  - https://en.wikipedia.org/wiki/Texture
+  - **Texture**
+  - means **smoothness or roughness of the surface** of an object  
 
-- Pipeline, clipping, 퐁쉐이딩, 그러드 쉐이딩, 텍스쳐, 버텍스 쉐이더, Fragment Shader, 지오메트리 쉐이더, 등...  
+- Pipeline, clipping, 퐁쉐이딩, 그러드 쉐이딩, 버텍스 쉐이더, Fragment Shader, 지오메트리 쉐이더, 등...  
 

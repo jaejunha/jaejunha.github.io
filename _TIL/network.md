@@ -2,7 +2,7 @@
 layout: post
 tag: Network
 title: Daily study
-date: 2018.03.02
+date: 2018.03.04
 ---
 
 # Network  
@@ -106,5 +106,9 @@ date: 2018.03.02
   - **Provisioning**  
   - Before use resoures, **prepare** them  
   - There are many types in provisioning : Network Provisioning, Server Provisioning and etc...  
+- 17 (2018.03.04)  
+  - https://en.wikipedia.org/wiki/Overprovisioning  
+  - **Overprovisioning**  
+  - allocate additional bandwidth in Network  
 
-- Wifi, LTE, WSN, NFV, IDS, IPS, 오버프로비저닝 정리하기  
+- Wifi, LTE, WSN, NFV, IDS, IPS 정리하기  
