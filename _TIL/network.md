@@ -2,7 +2,7 @@
 layout: post
 tag: Network
 title: Daily study
-date: 2018.03.04
+date: 2018.03.06
 ---
 
 # Network  
@@ -110,5 +110,9 @@ date: 2018.03.04
   - https://en.wikipedia.org/wiki/Overprovisioning  
   - **Overprovisioning**  
   - allocate additional bandwidth in Network  
+- 18 (2018.03.06)   
+  - https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming  
+  - **Adaptive HTTP Streaming**  
+  - It detects **user's bandwidth** and **CPU capacity** and **adjusts the quality of a video stream**  
 
 - Wifi, LTE, WSN, NFV, IDS, IPS 정리하기  

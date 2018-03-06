@@ -21,6 +21,7 @@ layout: default
 - [Git](/tag?value=Git)  
 
 ## OS  
+- [Ubuntu](/tag?value=Ubuntu)  
 - [Kali](/tag?value=Kali)  
 
 ---

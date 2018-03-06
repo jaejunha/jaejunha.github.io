@@ -2,7 +2,7 @@
 layout: post
 tag: English
 title: Daily study
-date: 2018.03.05
+date: 2018.03.06
 ---
 
 # English  
@@ -80,7 +80,10 @@ study from [http://dreamingdean.tistory.com/17](http://dreamingdean.tistory.com/
   - **Take care**  
 - 23 (2018.03.04)  
   - **Thanks for the history lesson**  
-  - **뒷북 치지마**
+  - **뒷북 치지마**  
+-24 (2018.03.06)  
+  - I **hope** my train leaves **on time**  
+  - I **hope it rains**  
 
 ## Writing sentences  
 - 1 (2018.01.28)  
