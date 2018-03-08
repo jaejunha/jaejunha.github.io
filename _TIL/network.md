@@ -2,7 +2,7 @@
 layout: post
 tag: Network
 title: Daily study
-date: 2018.03.06
+date: 2018.03.08
 ---
 
 # Network  
@@ -114,5 +114,10 @@ date: 2018.03.06
   - https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming  
   - **Adaptive HTTP Streaming**  
   - It detects **user's bandwidth** and **CPU capacity** and **adjusts the quality of a video stream**  
+- 19 (2018.03.08)  
+  - https://en.wikipedia.org/wiki/Network_function_virtualization  
+  - **NFV**
+  - abbreviation for **Network Function Virtualization**  
+  - **Network function** is used not from dedicated HW but **from vertual servers**  
 
-- Wifi, LTE, WSN, NFV, IDS, IPS 정리하기  
+- Wifi, LTE, WSN, IDS, IPS 정리하기  

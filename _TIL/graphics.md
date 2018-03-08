@@ -2,7 +2,7 @@
 layout: post 
 tag: Graphics
 title: Daily study
-date: 2018.03.05
+date: 2018.03.07
 ---
 
 # Graphics  
@@ -118,6 +118,17 @@ date: 2018.03.05
   - https://en.wikipedia.org/wiki/Texture
   - **Texture**
   - means **smoothness or roughness of the surface** of an object  
+
+- 21 (2018.03.07)  
+  - https://en.wikipedia.org/wiki/Reflection_mapping  
+  - **Reflection Mapping**  
+  - It is also called **Environment Mapping**  
+  - Texture is used to **store the image of the distant environment surrounding the rended object**  
+  - There are several method to implement
+    1. Shpere mapping  
+    2. Cube mapping  
+    3. HEALPix mapping  
+  - It is **more efficent** than ray tracing  
 
 - Pipeline, clipping, 퐁쉐이딩, 그러드 쉐이딩, 버텍스 쉐이더, Fragment Shader, 지오메트리 쉐이더, 등...  
 

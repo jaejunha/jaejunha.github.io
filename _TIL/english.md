@@ -2,7 +2,7 @@
 layout: post
 tag: English
 title: Daily study
-date: 2018.03.06
+date: 2018.03.08
 ---
 
 # English  
@@ -84,6 +84,9 @@ study from [http://dreamingdean.tistory.com/17](http://dreamingdean.tistory.com/
 -24 (2018.03.06)  
   - I **hope** my train leaves **on time**  
   - I **hope it rains**  
+- 25 (2018.03.08)  
+  - You**'d better** watch out  
+  - You**'d better** hurry  
 
 ## Writing sentences  
 - 1 (2018.01.28)  
@@ -151,6 +154,12 @@ study from [http://dreamingdean.tistory.com/17](http://dreamingdean.tistory.com/
 - 20 (2018.03.05)  
   - I have a stomach ache. **That's why** I go to the hospital  
   - I go to the hospital. **That's because** I have a stomach ache  
+- 21 (2018.03.07)  
+  - http://blog.koreadaily.com/view/myhome.html?fod_style=B&med_usrid=soracui&cid=571070&fod_no=1  
+  - I **set** my camera lens **to** infinity  
+  - He **sets** his wiatch **by** the time signal    
+  - She **sets** a dial **on** an oven
+  - He **sets** a diamond **in** silver  
 
 ## Words  
 - 1 (2018.02.15)  
