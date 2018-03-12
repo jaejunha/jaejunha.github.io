@@ -5,11 +5,11 @@ layout: default
 # TIL   
 ---
 ## Language  
-- [English](/tag?value=English)  
+- (PAUSE)[English](/tag?value=English)  
 
 ## Theory  
-- [Graphics](/tag?value=Graphics)  
-- [Network](/tag?value=Network)  
+- (PAUSE)[Graphics](/tag?value=Graphics)  
+- (PAUSE)[Network](/tag?value=Network)  
   
 ## Programming  
 - [HTML5](/tag?value=HTML5)    
