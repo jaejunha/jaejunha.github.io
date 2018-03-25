@@ -8,8 +8,8 @@ layout: default
 - (PAUSE)[English](/tag?value=English)  
 
 ## Theory  
-- (PAUSE)[Graphics](/tag?value=Graphics)  
-- (PAUSE)[Network](/tag?value=Network)  
+- [Graphics](/tag?value=Graphics)  
+- [Network](/tag?value=Network)  
 - [Security](/tag?value=Security)
   
 ## Programming  

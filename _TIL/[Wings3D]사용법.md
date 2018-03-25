@@ -10,4 +10,4 @@ date: 2018.03.25
 마우스 오른쪽 > 만들고 싶은 오브젝트 선택  
 
 ### 점, 선, 면 선택  
-<img src="images/사용법1.jpg?raw=true">  
+<img src="{{site.url}}/images/사용법1.jpg?raw=true">  
