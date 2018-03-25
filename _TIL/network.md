@@ -2,7 +2,7 @@
 layout: post
 tag: Network
 title: Daily study
-date: 2018.03.08
+date: 2018.03.25
 ---
 
 # Network  
@@ -54,10 +54,12 @@ date: 2018.03.08
   -  HTTP server, mail proxy server, TCP/UDP proxy server  
 - 8 (2018.02.16)  
   - http://www.itworld.co.kr/news/86025  
+  - https://en.wikipedia.org/wiki/Network_function_virtualization  
   - **NFV**  
   - **Network Function Virtualization**의 약어  
   - 네트워크 가상화는 기존 네트워크에서 **여러 논리적 네트워크로 분할**, ex) 하드웨어에서 여러 파티션으로 나누는 것과 비슷  
   - 네트워크 가상화 외에 **네트워크 서비스**까지 가상화, 방화벽. 예를들면, 로드 밸런싱 등까지 가상화  
+  - Network function은 전용 HW가 아닌 **가상 서버**로 부터!, 가상이 핵심!   
 - 9 (2018.02.18)  
   - https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP  
   - **DASH**  
@@ -112,12 +114,10 @@ date: 2018.03.08
   - allocate additional bandwidth in Network  
 - 18 (2018.03.06)   
   - https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming  
-  - **Adaptive HTTP Streaming**  
-  - It detects **user's bandwidth** and **CPU capacity** and **adjusts the quality of a video stream**  
-- 19 (2018.03.08)  
-  - https://en.wikipedia.org/wiki/Network_function_virtualization  
-  - **NFV**
-  - abbreviation for **Network Function Virtualization**  
-  - **Network function** is used not from dedicated HW but **from vertual servers**  
 
+  - **Adaptive HTTP Streaming**  
+
+  - It detects **user's bandwidth** and **CPU capacity** and **adjusts the quality of a video stream**  
+
+    ​
 - Wifi, LTE, WSN, IDS, IPS 정리하기  
