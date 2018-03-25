@@ -1,5 +1,5 @@
-title: <center>Dreamline91's TIL</center>
-description: <hr>TIL is abbreviation for Today I Learned.<br>I upload what I study during graudate school.<br>아직 영어가 익숙하지 않아서 <b>한글</b>로 작성할 예정
+﻿title: <center>Dreamline91's TIL</center>
+description: <hr>TIL is abbreviation for Today I Learned.<br>I upload what I study during graudate school.<br>아직 영어가 익숙하지 않아서 <b>한글</b>로 작성
 show_downloads: true
 author: dreamline91
 theme: jekyll-theme-minimal
@@ -13,7 +13,7 @@ collections:
 #etc
 avatar: https://avatars1.githubusercontent.com/u/7951335?v=4
 image: http://dreamline91.xyz/static/personal/img/profile.jpg
-home: http://dreamline91.xyz
+page: http://dreamline91.xyz
 profile: profile
 name: Jae Jun Ha
 email: dreamline91@postech.ac.kr
