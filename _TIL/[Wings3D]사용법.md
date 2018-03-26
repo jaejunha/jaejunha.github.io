@@ -26,4 +26,22 @@ date: 2018.03.25
 ### 특정 면 이동 시키기  
 <img src="{{site.url}}/images/Wings3D_사용법6.jpg?raw=true">  
 원하는 면을 선택하고 마우스 오른쪽 클릭 > Move > 원하는 방향 선택   
-만약 잘못 했을 경우, ctrl + 마우스 오른쪽 클릭  
+만약 잘못 했을 경우, ctrl + 마우스 오른쪽 클릭   
+
+### 부드러운 모양으로 보기  
+
+<img src="{{site.url}}/images/Wings3D_사용법7.jpg?raw=true">   
+▼  
+
+<img src="{{site.url}}/images/Wings3D_사용법8.jpg?raw=true">  
+
+Ctrl + Shift 키를 눌러 전환을 해준다  
+  
+### 그물 모양 없이 보기  
+
+<img src="{{site.url}}/images/Wings3D_사용법8.jpg?raw=true">   
+▼  
+
+<img src="{{site.url}}/images/Wings3D_사용법9.jpg?raw=true">  
+
+W키를 눌러준다  
