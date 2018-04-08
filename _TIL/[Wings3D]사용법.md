@@ -8,8 +8,8 @@ date: 2018.03.27
 ## 사용법  
 본 내용은 아래 사이트들을 **참고**했습니다  
 [http://www.pagodaproductions.com/tiki/](http://www.pagodaproductions.com/tiki/)   
-http://www.wings3d.com/?page_id=265  
-  
+[http://www.wings3d.com/?page_id=265](http://www.wings3d.com/?page_id=265)  
+
 ### 기본적인 오브젝트 만들기  
 마우스 오른쪽 > 만들고 싶은 오브젝트 선택  
 
@@ -32,32 +32,32 @@ http://www.wings3d.com/?page_id=265
 
 ### 부드러운 모양으로 보기  
 
-<img src="{{site.url}}/images/Wings3D_사용법7.jpg?raw=true"> 
-
-<img src="{{site.url}}/images/Wings3D_사용법8.jpg?raw=true">  
+|전|후|
+| :---: | :---: | :---: |
+|<img src="{{site.url}}/images/Wings3D_사용법7.jpg?raw=true">|<img src="{{site.url}}/images/Wings3D_사용법8.jpg?raw=true">|
 
 Ctrl + Shift 키를 눌러 전환을 해준다  
 
-### 그물 모양 없이 보기  
+### 그물 모양 없이 보기(부드러운 모양에서)  
 
-<img src="{{site.url}}/images/Wings3D_사용법8.jpg?raw=true">
-
-<img src="{{site.url}}/images/Wings3D_사용법9.jpg?raw=true">  
+|전|후|
+| :---: | :---: | :---: |
+|<img src="{{site.url}}/images/Wings3D_사용법8.jpg?raw=true">|<img src="{{site.url}}/images/Wings3D_사용법9.jpg?raw=true">|
 
 W키를 눌러준다  
 
 ### 선택 해제하기  
 
-<img src="{{site.url}}/images/Wings3D_사용법10.jpg?raw=true">
-
-<img src="{{site.url}}/images/Wings3D_사용법11.jpg?raw=true">  
+|전|후|
+| :---: | :---: | :---: |
+|<img src="{{site.url}}/images/Wings3D_사용법10.jpg?raw=true">|<img src="{{site.url}}/images/Wings3D_사용법11.jpg?raw=true">|
 
 Space를 누른다  
 
 ### 더 많은 모양으로 쪼개기  
 
-<img src="{{site.url}}/images/Wings3D_사용법10.jpg?raw=true">
-
-<img src="{{site.url}}/images/Wings3D_사용법12.jpg?raw=true">  
+|전|후|
+| :---: | :---: | :---: |
+|<img src="{{site.url}}/images/Wings3D_사용법10.jpg?raw=true">|<img src="{{site.url}}/images/Wings3D_사용법12.jpg?raw=true">|
 
 S키를 누른다  
