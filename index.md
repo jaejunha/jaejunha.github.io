@@ -24,6 +24,7 @@ layout: default
 ## Tool  
 - [Git](/tag?value=Git)  
 - [Wings3D](/tag?value=Wings3D)  
+- [Blender](/tag?value=Blender)  
   
 ## OS  
 - [Ubuntu](/tag?value=Ubuntu)  
