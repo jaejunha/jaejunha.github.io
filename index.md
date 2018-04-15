@@ -2,6 +2,21 @@
 layout: default 
 ---
 
+# Recent  
+---
+<ul>
+{% assign posts = site.TIL | sort: 'date' | reverse %}
+{% for post in posts limit: 5 %}
+        <li>
+    	<a href="{{ post.url }}">[{{ post.tag }}]{{ post.title }}
+        	<span style="float:right;"><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d, %Y" }}</time></span>
+        	</a>
+    </li>
+{% endfor %}
+</ul>
+<h3><a style="color:#787878;float:right;" href="logs">+more logs</a></h3>
+<br>
+
 # TIL   
 ---
 ## Language  
@@ -29,18 +44,3 @@ layout: default
 ## OS  
 - [Ubuntu](/tag?value=Ubuntu)  
 - [Kali](/tag?value=Kali)  
-
----
-# Recent  
-<ul>
-{% assign posts = site.TIL | sort: 'date' | reverse %}
-{% for post in posts limit: 5 %}
-        <li>
-    	<a href="{{ post.url }}">[{{ post.tag }}]{{ post.title }}
-        	<span style="float:right;"><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d, %Y" }}</time></span>
-        	</a>
-    </li>
-{% endfor %}
-</ul>
-<h3><a style="color:#787878;float:right;" href="logs">+more logs</a></h3>
-
