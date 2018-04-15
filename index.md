@@ -19,14 +19,12 @@ layout: default
 
 # TIL   
 ---
-## Language  
-- (PAUSE)[English](/tag?value=English)  
 
 ## Theory  
 - [Graphics](/tag?value=Graphics)  
 - [Network](/tag?value=Network)  
-- [Security](/tag?value=Security)
-  
+- [AI](/tag?value=AI)  
+
 ## Programming  
 - [HTML5](/tag?value=HTML5)    
 - [CSS](/tag?value=CSS)    
@@ -43,4 +41,3 @@ layout: default
   
 ## OS  
 - [Ubuntu](/tag?value=Ubuntu)  
-- [Kali](/tag?value=Kali)  
