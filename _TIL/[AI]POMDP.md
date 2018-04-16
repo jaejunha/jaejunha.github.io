@@ -2,7 +2,7 @@
 layout: post 
 tag: AI
 title: POMDP
-date: 2018.04.15
+date: 2018.04.16
 ---
 참고 사이트
 - [위키: POMDP](https://en.wikipedia.org/wiki/Partially_observable_Markov_decision_process)

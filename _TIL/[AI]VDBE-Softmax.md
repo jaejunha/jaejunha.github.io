@@ -2,7 +2,7 @@
 layout: post 
 tag: AI
 title: VDBE-Softmax
-date: 2018.04.15
+date: 2018.04.16
 ---
 참고 사이트
 - [Multi-armed Bandit](http://sanghyukchun.github.io/96/)
@@ -11,7 +11,7 @@ date: 2018.04.15
 
 ## Softmax  
 ### Softmax function  
-<img src="{{site.url}}/images/AI_VDBE-Softmax1.JPG?raw=true">  
+<img src="{{site.url}}/images/AI_VDBE-Softmax1.jpg?raw=true">  
 소프트맥스 함수의 출력을 **확률로 해석**하여 **분류**함  
 <br>
 ## Epsilon-Greedy  
