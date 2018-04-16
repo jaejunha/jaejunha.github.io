@@ -8,7 +8,7 @@ date: 2018.04.15
 - [Multi-armed Bandit](http://sanghyukchun.github.io/96/)
 - [Value-Difference based Exploration: Adaptive Control between epsilon-Greedy and Softmax](http://www.tokic.com/www/tokicm/publikationen/papers/KI2011.pdf)
 - [소프트맥스함수](http://eehoeskrap.tistory.com/144)
-<br>
+
 ## Softmax  
 ### Softmax function  
 <img src="{{site.url}}/images/AI_VDBE-Softmax1.JPG?raw=true">  
@@ -23,12 +23,12 @@ date: 2018.04.15
 <br>
 ### Multi-armed Bandit Problem  
 기존 Reinforcement Learning과 다른 점은  
-**Reinforcement Learning**은 매 수간 reward를 **전부 정확하게** 알 수 있음  
+**Reinforcement Learning**은 매 순간 reward를 **전부 정확하게** 알 수 있음  
 하지만 **Multi -armed Bandit Problem**은 **선택한 action에 대한 보상만 알 수 있고** 다른 action에 대한 보상을 알 수 없음  
 <br>
 ### Epsilon-Greedy Algorithm  
 <img src="{{site.url}}/images/AI_VDBE-Softmax2.JPG?raw=true">  
-일정한 확률 **epsilon 만큼**은 **랜덤으로 action을 선택**하고  
+일정한 확률 **epsilon 만큼**은 **랜덤으로 action을 선택**하고(그 action에 따른 보상을 파악)  
 나머지 확률 **1-epsilon 만큼**은 **가장 최적의 action을 선택**  
 <br>
 **epsilon 값을 정하는 것을 통해** exploitation과 exploration 선택 정도의 **문제를 해결** 할 수 있음  
