@@ -57,7 +57,8 @@ layout: default
         var name;
         for(var i=0;i<tag_a.length;i++){
                 if((name = tag_a.item(i).innerHTML).indexOf('<') == -1){
-                        tag_a.item(i).innerHTML = name+" ("+tags[name]+")";
+                		if(tags[name])
+    						tag_a.item(i).innerHTML = name+" ("+tags[name]+")";
                 }
         }
 </script>

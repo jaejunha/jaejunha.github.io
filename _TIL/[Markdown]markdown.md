@@ -2,7 +2,7 @@
 layout: post 
 tag: Markdown
 title: Basic Syntax
-date: 2018.02.21
+date: 2018.04.18
 ---
 
 # Markdown  
@@ -16,3 +16,7 @@ date: 2018.02.21
 \<u\>text\</u\>  
 ## new line  
 use two space characters  
+## line(hr)  
+\-\-\-    
+## image  
+!\[ 'name' \]\[ 'url' ]  
