@@ -70,7 +70,7 @@ Agent는 **Q table을 참고**해 **어떤 길로 갈지 알 수 있음**
 따라서 **exploitation과 exploration을 적절히** 해야함  
 <br>
 ## POMDP  
-Partially Observable Markov Decision Process의 약어  
+**Partially Observable Markov Decision Process**의 약어  
 MDP의 한 종류  
 상태들이 완전히 관측 가능해질 때 MDP, 완전히 관측 못할 때, 즉 **부분적으로 관측 가능**해질 때 **POMDP**라고 함  
 환경이나 시스템 자체가 가지는 예측 불가능한 현상(불확실성)을 POMDP로 정의  
