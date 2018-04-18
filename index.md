@@ -41,3 +41,23 @@ layout: default
   
 ## OS  
 - [Ubuntu](/tag?value=Ubuntu)  
+
+<script>
+        var tags = {}
+        {% assign posts =  site.TIL %}
+        {% assign before = "" %}
+        {% for post in posts %}
+        if(tags["{{post.tag}}"])
+                tags["{{post.tag}}"]++;
+        else
+                tags["{{post.tag}}"]=1;
+        {% endfor %}
+
+        var tag_a = document.getElementsByTagName('a');
+        var name;
+        for(var i=0;i<tag_a.length;i++){
+                if((name = tag_a.item(i).innerHTML).indexOf('<') == -1){
+                        tag_a.item(i).innerHTML = name+" ("+tags[name]+")";
+                }
+        }
+</script>
