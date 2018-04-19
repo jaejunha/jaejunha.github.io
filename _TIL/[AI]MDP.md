@@ -2,12 +2,11 @@
 layout: post 
 tag: AI
 title: MDP
-date: 2018.04.18
+date: 2018.04.19
 ---
 참고 사이트
 - [위키: POMDP](https://en.wikipedia.org/wiki/Partially_observable_Markov_decision_process)
 - [인공지능에 의한 자율주행기술 현황과 과제](http://magazine.hellot.net/magz/article/articleDetail.do?flag=all&showType=showType1&articleId=ARTI_000000000041369&articleAllListSortType=sort_1&page=1&selectYearMonth=201605&subCtgId=)
-- [고파스](https://www.koreapas.com/m/view.php?id=gofun&page=1&sn1=&divpage=27&select_arrange=headnum&desc=asc&no=142813&allc=1)
 - [Lecture notes](https://www.cs.cmu.edu/~ggordon/780-fall07/lectures/POMDP_lecture.pdf)
 - [Toturial](https://www.techfak.uni-bielefeld.de/~skopp/Lehre/STdKI_SS10/POMDP_tutorial.pdf)
 - [OpenRL - 강화학습 그리고 OpenAI - 2: Intro to Reinforcement Learning (1) MDP &amp;Value Function](http://www.modulabs.co.kr/RL_library/2136)
@@ -72,8 +71,17 @@ Agent는 **Q table을 참고**해 **어떤 길로 갈지 알 수 있음**
 ## POMDP  
 **Partially Observable Markov Decision Process**의 약어  
 MDP의 한 종류  
-상태들이 완전히 관측 가능해질 때 MDP, 완전히 관측 못할 때, 즉 **부분적으로 관측 가능**해질 때 **POMDP**라고 함  
-환경이나 시스템 자체가 가지는 예측 불가능한 현상(불확실성)을 POMDP로 정의  
-게임으로 비유를 하면 상대방의 환경을 모르고 **자신이 관찰한 환경만을 가지고 판단**하도록 하는 방법(즉 전체를 모름)  
+state들이 완전히 관측 가능해질 때를 MDP  
+state들이 완전히 관측 못해질 때, 즉 **부분적으로 관측 가능**해질 때를 **POMDP**라고 함  
 <br>
-**가능한 state들에 대한 확률 분포**, **observation**과 **그에 따른 확률 분포**를 포함   
+예를 들면 **Tiger problem** 생각  
+양쪽 문에 각각 **호랑이** 혹은 **보물 상자**가 있음  
+그들은 문 뒤에 있기 때문에 **문을 열어야 상태**를 확인 할 수 있음  
+문을 **여는 행위를 action**이라 함  
+문을 열면 상태를 **관측(observation)** 하게 되고 **보상(reward)**를 얻음(-값이든 +값이든)  
+<br>
+즉 MDP는 action을 취하면 **reward만**을 얻게 되지만,  
+POMDP는 action을 취하면 **observation과 reward**를 얻게 됨  
+<br>
+POMDP는 위와 같이 **환경(environment)에 대한 불확실성(uncertainty)**를 가질 때 정의 됨  
+(agent는 environment와 상호 작용함)  
