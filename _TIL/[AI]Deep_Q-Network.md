@@ -5,7 +5,7 @@ title: Deep Q-Network
 date: 2018.04.25
 ---
 참고 사이트
-- [Deep-Q Network (DQN) - Simulation | ML](https://jay.tech.blog/2017/01/10/deep-q-network-dqn/)
+- [Deep-Q Network (DQN) - Simulation](https://jay.tech.blog/2017/01/10/deep-q-network-dqn/)
 
 <br>
 ## Deep Q-Network  
