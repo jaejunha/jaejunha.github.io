@@ -2,12 +2,13 @@
 layout: post 
 tag: AI
 title: VDBE-Softmax
-date: 2018.04.19
+date: 2018.04.25
 ---
 참고 사이트
 - [Value-Difference based Exploration: Adaptive Control between epsilon-Greedy and Softmax](http://www.tokic.com/www/tokicm/publikationen/papers/KI2011.pdf)
 - [Multi-armed Bandit](http://sanghyukchun.github.io/96/)
-- [소프트맥스함수](http://eehoeskrap.tistory.com/144)
+- [소프트맥스함수](http://eehoeskrap.tistory.com/144)  
+- [Simple Reinforcement Learning with Tensorflow Part 7: Action-Selection Strategies for Exploration (한국어 버젼)](http://ishuca.tistory.com/m/399)
 
 <br>
 ## Epsilon-Greedy  
