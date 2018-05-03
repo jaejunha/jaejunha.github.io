@@ -2,7 +2,7 @@
 layout: post 
 tag: Blender
 title: 사용법
-date: 2018.04.26
+date: 2018.05.01
 ---
 
 ## 사용법  
@@ -74,7 +74,18 @@ date: 2018.04.26
 |`E` + `Z`|Z축으로 물체 돌출|
 
 <br>
+### 특수 메뉴(편집 모드)  
+`W`키를 눌러 특수 메뉴에 진입  
 
+|기능|설명|
+| :---: | :---: |
+|Subdivide|face를 세분화|
+|Subdivide Smooth|face를 주변과 조화를 맞추면서 세분화|
+|Merge|요소들을 합침|
+|Flips Normals|normal vector를 뒤집음|
+|Smooth|주변과 조화를 맞춤|
+
+<br>
 ---
 
 아래는 작업 더 필요  
@@ -94,18 +105,6 @@ date: 2018.04.26
 |키|설명|
 | :---: | :---: |
 |`Shift` + `A`|오브젝트 추가|
-
-<br>
-### 특수 메뉴(편집 모드)  
-`W`키를 눌러 특수 메뉴에 진입  
-
-|기능|설명|
-| :---: | :---: |
-|Subdivide|face를 세분화|
-|Subdivide Smooth|face를 주변과 조화를 맞추면서 세분화|
-|Merge|요소들을 합침|
-|Flips Normals|normal vector를 뒤집음|
-|Smooth|주변과 조화를 맞춤|
 
 <br>
 ### 삼각형으로 분해하기  
@@ -137,3 +136,5 @@ date: 2018.04.26
 ### 원점  
 `Shift` + `C`  
 <br>
+### 텍스쳐 입히기
+편집모드에서 `U`키를 누름  
