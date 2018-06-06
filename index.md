@@ -22,6 +22,7 @@ layout: default
 
 ## Theory  
 - [Graphics](/tag?value=Graphics)  
+- [MultiMedia](/tag?value=MultiMedia)  
 - [Network](/tag?value=Network)  
 - [AI](/tag?value=AI)  
 

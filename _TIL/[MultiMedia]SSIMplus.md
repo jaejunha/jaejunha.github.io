@@ -1,13 +1,13 @@
 ---
 layout: post 
-tag: Network
+tag: MultiMedia
 title: SSIMplus
-date: 2018.04.19
+date: 2018.06.07
 ---
 참고 사이트
 - Image Quality Assessment: From Error Visibility to
 Structural Similarity
-- (The SSIMplus Index for Video Quality-of-Experience Assessment)[https://ece.uwaterloo.ca/~z70wang/research/ssimplus/]
+- [The SSIMplus Index for Video Quality-of-Experience Assessment](https://ece.uwaterloo.ca/~z70wang/research/ssimplus/)
 - [ICY 영상 분석툴을 이용한 SSIM, MSE, PSNR 평가방법 - 네이버 블로그](http://blog.naver.com/PostView.nhn?blogId=y4769&logNo=220505513170&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)
 - [Structural similarity - Wikipedia](https://en.wikipedia.org/wiki/Structural_similarity)
 - [Structural Similarity Index (SSIM) for measuring image quality - MATLAB ssim - MathWorks 한국](https://kr.mathworks.com/help/images/ref/ssim.html)
