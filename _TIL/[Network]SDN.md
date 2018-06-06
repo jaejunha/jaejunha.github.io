@@ -2,7 +2,7 @@
 layout: post 
 tag: Network
 title: SDN
-date: 2018.06.06
+date: 2018.06.07
 ---
 참고 사이트
 - [http://www.itworld.co.kr/news/105686](http://www.itworld.co.kr/news/105686)  
@@ -29,11 +29,14 @@ Data plane을 **제어**하기 위한 명령어 (Match & Action)과
 - SDN Datapath  
 - SDN Control to Data-Plain Interface (CDPI)  
 - SDN Northbound Interfaces (NBI)  
+
 <br>
 ### Examples  
 **경로 최적화**  
 - WAN 분야에서의 경로 최적화, A에서 B로 향할 때 빠른 경로를 제공  
+
 **데이터 센터**  
 - 데이터 센터 내의 네트워크 장비를 SDN 컨트롤러와 조합하여 비용 축소  
+
 **가상 네트워크**  
 - 하나의 네트워크에 여러 서비스 제공  
