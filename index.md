@@ -30,16 +30,21 @@ layout: default
 - [HTML5](/tag?value=HTML5)    
 - [CSS](/tag?value=CSS)    
 - [jQuery](/tag?value=jQuery)  
+- [Node.js](/tag?value=Node.js)  
 - [Three.js](/tag?value=Three.js)  
+- [Java](/tag?value=Java)  
 - [Android](/tag?value=Android)  
-- [Jekyll](/tag?value=Jekyll)  
+- [Python](/tag?value=Python)  
 - [Django](/tag?value=Django)  
+- [Jekyll](/tag?value=Jekyll)  
 - [Markdown](/tag?value=Markdown)  
   
 ## Tool  
 - [Git](/tag?value=Git)  
 - [Wings3D](/tag?value=Wings3D)  
 - [Blender](/tag?value=Blender)  
+- [Illustrator](/tag?value=Illustrator)  
+- [PhotoShop](/tag?value=PhotoShop)  
   
 ## OS  
 - [Ubuntu](/tag?value=Ubuntu)  
