@@ -28,6 +28,10 @@ https://github.com/pages-themes/minimal
 ```
 http://ghchart.rshah.org  
 ```
+- JQuery
+```
+https://code.jquery.com/jquery-3.3.1.min.js
+```
 - markdown badge  
 ```
 http://shields.io/  
