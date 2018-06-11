@@ -214,9 +214,6 @@ hr {
 
 footer {
   width:270px;
-  float:left;
-  position:fixed;
-  bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -227,7 +224,7 @@ footer {
     margin:0;
   }
 
-  header, section, footer {
+  header, section {
     float:none;
     position:static;
     width:auto;
