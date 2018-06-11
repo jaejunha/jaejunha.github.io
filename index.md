@@ -60,39 +60,38 @@ layout: default
         $('.div_tag:nth-of-type(2)').css('width',$('section').width()*0.6);
 
 	showTag("{{ posts.first.tag }}");
-
-        var tags = {}
-        {% assign posts =  site.TIL %}
-        {% assign before = "" %}
-        {% for post in posts %}
-        if(tags["{{post.tag}}"])
-                tags["{{post.tag}}"]++;
-        else
-                tags["{{post.tag}}"]=1;
-        {% endfor %}
-
-        var tag_a = document.getElementsByTagName('a');
-        var name;
-        for(var i=0;i<tag_a.length;i++){
-                if((name = tag_a.item(i).innerHTML).indexOf('<') == -1){
-                		if(tags[name]){
-    					tag_a.item(i).innerHTML = name+" ("+tags[name]+")";
+	
+	    var tags = {}
+	    {% assign before = "" %}
+	    {% for post in posts %}
+	    if(tags["{{post.tag}}"])
+	            tags["{{post.tag}}"]++;
+	    else
+	            tags["{{post.tag}}"]=1;
+	    {% endfor %}
+	
+	    var tag_a = document.getElementsByTagName('a');
+	    var name;
+	    for(var i=0;i<tag_a.length;i++){
+	            if((name = tag_a.item(i).innerHTML).indexOf('<') == -1){
+	            		if(tags[name]){
+						tag_a.item(i).innerHTML = name+" ("+tags[name]+")";
 					tag_a.item(i).setAttribute('href','javascript:showTag("'+name+'")');
 				}
-                }
-        }
-
+	            }
+	    }
+	
 	function showTag(name){
 		var string_tag = name;
-        	var string_html = "<h1>"+string_tag+"</h1><ul>";
-       	 	{% for post in posts %}
-        	if(string_tag == "{{post.tag}}"){
-                	string_html+='<li><a href="{{ post.url }}">{{ post.title }}';
-                	string_html+='</a></li>';
-        	}
-        	{% endfor %}
+	    	var string_html = "<h1>"+string_tag+"</h1><ul>";
+	   	 	{% for post in posts %}
+	    	if(string_tag == "{{post.tag}}"){
+	            	string_html+='<li><a href="{{ post.url }}">{{ post.title }}';
+	            	string_html+='</a></li>';
+	    	}
+	    	{% endfor %}
 		string_html+="</ul>";
-        
-        	$('.div_tag:nth-of-type(2)').html(string_html);
+	    
+	    	$('.div_tag:nth-of-type(2)').html(string_html);
 	}
 </script>

@@ -2,7 +2,7 @@
 layout: post 
 tag: Blender
 title: 애니메이션 추출(Three.js) - 제작 작업
-date: 2018.06.10
+date: 2018.06.12
 ---
 
 ## 애니메이션 추출(Three.js) - 제작 작업  
@@ -82,15 +82,18 @@ Animation을 선택하면 위과 같은 화면이 나온다
 
 <img src="{{site.url}}/images/애니메이션_추출_제작16.jpg?raw=true">   
 
-애니메이션을 추출하기 위해 **File** > **Export** > **Three.js (json)**을 선택한다  
+먼저 우측에서 **뼈대가 아닌** **만든 오브젝트를 선택**한다  
 
 <img src="{{site.url}}/images/애니메이션_추출_제작17.jpg?raw=true">   
+
+애니메이션을 추출하기 위해 **File** > **Export** > **Three.js (json)**을 선택한다  
+
+<img src="{{site.url}}/images/애니메이션_추출_제작18.jpg?raw=true">   
 
 Three.js (json)을 선택하면 위와 같은 화면이 나온다  
 애니메이션을 추출하기 위해서는 **설정이 필요**한데,  
 **건드려야 할 곳은 빨간색 박스 친 부분**이다  
 
-<img src="{{site.url}}/images/애니메이션_추출_제작18.jpg?raw=true">   
 <img src="{{site.url}}/images/애니메이션_추출_제작19.jpg?raw=true">   
 <img src="{{site.url}}/images/애니메이션_추출_제작20.jpg?raw=true">   
 <img src="{{site.url}}/images/애니메이션_추출_제작21.jpg?raw=true">   
