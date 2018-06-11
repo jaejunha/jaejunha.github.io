@@ -84,13 +84,14 @@ layout: default
 
 	function showTag(name){
 		var string_tag = name;
-        	var string_html = "<h1>"+string_tag+"</h1>";
+        	var string_html = "<h1>"+string_tag+"</h1><ul>";
        	 	{% for post in posts %}
         	if(string_tag == "{{post.tag}}"){
                 	string_html+='<li><a href="{{ post.url }}">{{ post.title }}';
                 	string_html+='</a></li>';
         	}
         	{% endfor %}
+		string_html+="</ul>";
         
         	$('.div_tag:nth-of-type(2)').html(string_html);
 	}
