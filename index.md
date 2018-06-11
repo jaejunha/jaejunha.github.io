@@ -59,17 +59,7 @@ layout: default
         $('.div_tag:nth-of-type(1)').css('width',$('section').width()*0.4);
         $('.div_tag:nth-of-type(2)').css('width',$('section').width()*0.6);
 
-	showTag("{{ post.first.tag }}");
-	var string_tag = "{{ posts.first.tag }}";
-        var string_html = "<h1>"+string_tag+"</h1>";
-        {% for post in posts %}
-        if(string_tag == "{{post.tag}}"){
-                string_html+='<a href="{{ post.url }}">[{{ post.tag }}]{{ post.title }}';
-                string_html+='</a><br>';
-        }
-        {% endfor %}
-        
-        $('.div_tag:nth-of-type(2)').html(string_html);
+	showTag("{{ posts.first.tag }}");
 
         var tags = {}
         {% assign posts =  site.TIL %}
@@ -97,8 +87,8 @@ layout: default
         	var string_html = "<h1>"+string_tag+"</h1>";
        	 	{% for post in posts %}
         	if(string_tag == "{{post.tag}}"){
-                	string_html+='<a href="{{ post.url }}">[{{ post.tag }}]{{ post.title }}';
-                	string_html+='</a><br>';
+                	string_html+='<li><a href="{{ post.url }}">{{ post.title }}';
+                	string_html+='</a></li>';
         	}
         	{% endfor %}
         
