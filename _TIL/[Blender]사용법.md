@@ -2,7 +2,7 @@
 layout: post 
 tag: Blender
 title: 사용법
-date: 2018.05.01
+date: 2018.06.24
 ---
 
 ## 사용법  
