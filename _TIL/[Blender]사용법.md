@@ -2,7 +2,7 @@
 layout: post 
 tag: Blender
 title: 사용법
-date: 2018.07.03
+date: 2018.07.08
 ---
 
 ## 사용법  
@@ -28,6 +28,7 @@ date: 2018.07.03
 |`Shift` + `C`|원점 이동|
 |`Shift` + `F`|시점 이동|
 |`Shift` + `마우스 휠`|카메라 이동|
+|`N`| 물체의 속성 보기 |
 
 <br>
 ### 모드  
@@ -116,6 +117,22 @@ date: 2018.07.03
 |`A`|선택 해제|
 
 <br>
+### 리깅
+Mesh와 Armature를 합칠 때 사용(애니메이션 만들 때)  
+**Mesh를 먼저 선택**하고 Armature를 선택 후 `Ctrl`+`P`키를 누름  
+
+|기능|설명|
+| :---: | :---: |
+| Object |  |
+| Object(Keep Transform) |  |
+| Armature Deform |  |
+| With Empty Groups |  |
+| With Envelop Weights |  |
+| With Automatic Weights | Armature의 Tail과 Head에 따른 메쉬와 연결 |
+| Bone |  |
+| Bone Relative | 사용자가 Mesh와 Armature를 직접 연결 |
+
+<br>
 ---
 
 아래는 작업 더 필요  
@@ -149,16 +166,9 @@ date: 2018.07.03
 ### 뼈대 만들기  
 꼭지점 잡고 `Ctrl` + `E`  
 <br>
-### 리깅  
-뼈와 오브젝트를 잇는 것을 **리깅**이라고 함  
-오브젝트와 뼈가 선택된 상황에서 Pose모드에 들어간 후 `Ctrl` + `P` 누르고 Bone선택  
-<br>
 ### 텍스쳐 입히기
 편집모드에서 `U`키를 누름  
 <br>
 ### Text를 Mesh로 변환
 Text를 선택하고 `Alt`+`C`키를 누름  
-<br>
-### 속성
-`N`키를 누름  
 <br>
