@@ -27,7 +27,6 @@ layout: default
 - [Graphics](javascript:void(0))  
 - [MultiMedia](javascript:void(0))  
 - [Network](javascript:void(0))  
-- [AI](javascript:void(0))  
 
 ## Programming  
 - [HTML5](javascript:void(0))    
