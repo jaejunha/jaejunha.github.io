@@ -2,7 +2,7 @@
 layout: post 
 tag: Blender
 title: 사용법
-date: 2018.07.08
+date: 2018.07.09
 ---
 
 ## 사용법  
@@ -87,7 +87,7 @@ date: 2018.07.08
 `W`키를 눌러 특수 메뉴에 진입  
 
 |기능|설명|
-| :---: | :---: |
+| :---: | :--- |
 |Subdivide|face를 세분화|
 |Subdivide Smooth|face를 주변과 조화를 맞추면서 세분화|
 |Merge|요소들을 합침|
@@ -99,7 +99,7 @@ date: 2018.07.08
 `Alt`+`Ctrl`+`Shift`+`C` 키를 누름  
 
 |기능|설명|
-| :---: | :---: |
+| :---: | :--- |
 | Geometry to Origin | 물체를 물체 중심 포인터로 |
 | Origin to Geometry | 물체 중심 포인터를 물체로 |
 | Origin to 3D Cursor | 물체 중심을 클릭된 커서 포인트로 |
@@ -118,19 +118,18 @@ date: 2018.07.08
 
 <br>
 ### 리깅
-Mesh와 Armature를 합칠 때 사용(애니메이션 만들 때)  
-**Mesh를 먼저 선택**하고 Armature를 선택 후 `Ctrl`+`P`키를 누름  
+Mesh와 Bone을 합칠 때 사용(애니메이션 만들 때)  
+**Mesh를 먼저 선택**하고 Bone을 선택 후 `Ctrl`+`P`키를 누름   
+(Bone이 모여 Armature가 됨)   
 
-|기능|설명|
-| :---: | :---: |
-| Object |  |
-| Object(Keep Transform) |  |
-| Armature Deform |  |
-| With Empty Groups |  |
-| With Envelop Weights |  |
-| With Automatic Weights | Armature의 Tail과 Head에 따른 메쉬와 연결 |
-| Bone |  |
-| Bone Relative | 사용자가 Mesh와 Armature를 직접 연결 |
+| 기능 | Modifier | Vertex Group | 설명 |
+| :---: | :---: | :---: | :---|
+| Armature Deform | O | X | 단순히 **Modifier만** 만듦 |
+| With Empty Groups | O | O | Bone의 갯수의 따른 **빈 Vertex Group 생성**, 메쉬의 각 성분들을 Vertex Group과 **리깅하는 것은 사용자의 몫** |
+| With Envelop Weights | O | O | Vertex들과 여러개의 Bone과 대응시켜 연결**(1:N)**, **자동화된 리깅 방식**  |
+| With Automatic Weights | O | O | 세분화 된 하나의 Mesh를 여러개의 Bone과 대응시켜 연결**(1:N)**, **자동화된 리깅 방식** |
+| Bone | X | X | 하나의 Mesh와 하나의 Bone를 직접 연결**(1:1)** |
+| Bone Relative | X | X | **Bone과 동일**, 차이점은 편집 모드(Edit Mode)에서 Bone을 움직이고 오브젝트 모드(Object Mode) 돌아올 때 Mesh와의 **상대적 거리**가 변함 |
 
 <br>
 ---
@@ -140,7 +139,7 @@ Mesh와 Armature를 합칠 때 사용(애니메이션 만들 때)
 ### 오브젝트  
 
 |키|설명|
-| :---: | :---: |
+| :---: | :--- |
 |`Shift` + `A`|오브젝트 추가|
 
 <br>
