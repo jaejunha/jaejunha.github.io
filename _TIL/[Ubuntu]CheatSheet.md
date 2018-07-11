@@ -2,7 +2,7 @@
 layout: post 
 tag: Ubuntu
 title: CheatSheet
-date: 2018.06.13
+date: 2018.07.11
 ---
 
 ## CheatSheet  
@@ -11,6 +11,8 @@ date: 2018.06.13
 |명령어|설명|
 | :--- | :--- |
 |`apt-get install <packege>`|패키지를 설치한다|
+|`apt-get update`|패키지의 최신 버전이 있는지 확인 한다|
+|`apt-get upgrade`|패키지를 최신 버전으로 업그레이드 한다|
 |`wget <url-address>`|파일을 인터넷으로부터 다운로드 한다|
 |`dpkg-reconfigure tzdata`|time zone을 바꾼다|
 |`export <environment-variable>=<value>`|환경 변수를 설정한다|

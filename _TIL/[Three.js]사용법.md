@@ -2,7 +2,7 @@
 layout: post 
 tag: Three.js
 title: 사용법
-date: 2018.05.03
+date: 2018.07.11
 ---
 
 ## 사용법  
@@ -19,4 +19,3 @@ https://github.com/mrdoob
 https://threejs.org/ 
 ```
 <br>
-### 기초적인 함수  
