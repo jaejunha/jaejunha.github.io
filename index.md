@@ -82,7 +82,7 @@ layout: default
 	
 	function showTag(name){
 		var string_tag = name;
-	    	var string_html = "<h1>"+string_tag+"</h1><ul>";
+	    	var string_html = "<h2>&gt&nbsp;"+string_tag+"</h2><ul>";
 	   	 	{% for post in posts %}
 	    	if(string_tag == "{{post.tag}}"){
 	            	string_html+='<li><a href="{{ post.url }}">{{ post.title }}';
