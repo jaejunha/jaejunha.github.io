@@ -28,12 +28,12 @@
 
         {% if site.show_downloads %}
           <ul>
-            <li><a href="{{site.url}}">Go <strong>Home</strong></a></li>
+            <li><a href="{{site:url}}/profile">View <strong>Profile</strong></a></li>
             <li><a href="{{site.page}}" target="_blank">Visit <strong>Page</strong></a></li>
             <li><a href="{{ site.github.owner_url }}" target="_blank">Visit <strong>GitHub</strong></a></li>
           </ul>
           <div id="div_profile">
-            <a href="{{site:url}}/profile">View&nbsp;<strong>Profile</strong></a>
+            <a href="{{site:url}}">Go&nbsp;<strong>Home</strong></a>
           </div>
         {% endif %}
         <br>
