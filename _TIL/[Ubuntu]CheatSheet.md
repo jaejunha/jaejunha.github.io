@@ -2,7 +2,7 @@
 layout: post 
 tag: Ubuntu
 title: CheatSheet
-date: 2018.07.11
+date: 2018.07.17
 ---
 
 ## CheatSheet  
@@ -22,13 +22,6 @@ date: 2018.07.11
 |`passwd <user-id>`|특정 사용자의 비밀번호를 바꾼다|
 
 <br>
-### 네트워크
-
-|명령어|설명|
-| :--- | :--- |
-|`netstat -ntl` |열린 포트 번호를 확인한다|
-
-<br>
 ### 압축  
 
 |명령어|설명|
@@ -40,14 +33,35 @@ date: 2018.07.11
 |`unzip <file-name>`|zip파일의 압축을 푼다|
 
 <br>
+### 검색  
+
+|명령어|설명|
+| :--- | :--- |
+|`grep <pattern> <file-name>`|파일에서 특정 패턴을 찾는다|
+|`find <directory> -name <file-name>`|특정 경로에서 특정 파일을 찾는다|
+|`find <directory> -name <file-name> | xargs grep <pattern>` |특정 경로에서 특정 패턴을 가진 파일을 찾는다|
+
+<br>
+### 저장 공간  
+
+|명령어|설명|
+| :--- | :--- |
+|`du`|현재 경로에서 파일들의 사이즈를 측정한다|
+|`du -hs * | sort -hr | head -10`|현재 경로에서 용량이 높은 폴더 10개를 측정한다|
+
+<br>
+### 네트워크
+
+|명령어|설명|
+| :--- | :--- |
+|`netstat -ntl` |열린 포트 번호를 확인한다|
+
+<br>
 ### 기타  
 
 |명령어|설명|
 | :--- | :--- |
 |`gedit <file-name>`|파일을 gedit으로 연다|
 |`cat <file-name>`|파일의 내용을 콘솔에 출력한다|
-|`grep <pattern> <file-name>`|파일에서 특정 패턴을 찾는다|
-|`find <directory> -name <file-name>`|특정 경로에서 특정 파일을 찾는다|
-|`find <directory> -name <file-name> | xargs grep <pattern>` |특정 경로에서 특정 패턴을 가진 파일을 찾는다|
 
 <br>
