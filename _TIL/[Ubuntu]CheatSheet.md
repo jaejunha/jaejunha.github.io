@@ -2,7 +2,7 @@
 layout: post 
 tag: Ubuntu
 title: CheatSheet
-date: 2018.07.17
+date: 2018.07.21
 ---
 
 ## CheatSheet  
@@ -38,6 +38,7 @@ date: 2018.07.17
 |명령어|설명|
 | :--- | :--- |
 |`grep <pattern> <file-name>`|파일에서 특정 패턴을 찾는다|
+|`grep -r <pattern> <directory>`|특정 경로 안에 있는 모든 파일을 대상으로 패턴을 찾는다|
 |`find <directory> -name <file-name>`|특정 경로에서 특정 파일을 찾는다|
 |`find <directory> -name <file-name> | xargs grep <pattern>` |특정 경로에서 특정 패턴을 가진 파일을 찾는다|
 
