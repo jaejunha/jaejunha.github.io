@@ -2,7 +2,7 @@
 layout: post 
 tag: Blender
 title: 사용법
-date: 2018.07.14
+date: 2018.07.24
 ---
 
 ## 사용법  
@@ -29,6 +29,7 @@ date: 2018.07.14
 |`Shift` + `F`|시점 이동|
 |`Shift` + `마우스 휠`|카메라 이동|
 |`N`| 물체의 속성 보기 |
+|`T`| 조작 도구 열기 |
 
 <br>
 ### 모드  
@@ -178,4 +179,8 @@ Mesh와 Bone을 합칠 때 사용(애니메이션 만들 때)
 <br>
 ### Text를 Mesh로 변환
 Text를 선택하고 `Alt`+`C`키를 누름  
+<br>
+
+### 뼈대 연결 보조선 안보이게   
+`N`키를 누르면 나오는 속성에서 Display > Relationship Lines 체크 해제
 <br>
