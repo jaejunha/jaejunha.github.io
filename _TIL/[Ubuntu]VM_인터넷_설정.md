@@ -16,35 +16,35 @@ VMware Player에서는 **VMnet0에서 Bridged**, **VMnet8에서 NAT**방식을 �
 <br>
 ### Bridged  
 
-<img src="{{site.url}}/images/vM_인터넷_설정1.jpg?raw=true">  
+<img src="{{site.url}}/images/VM_인터넷_설정1.jpg?raw=true">  
 
 **Edit Virtual Machine Settings**를 클릭  
 
-<img src="{{site.url}}/images/vM_인터넷_설정2.jpg?raw=true">  
+<img src="{{site.url}}/images/VM_인터넷_설정2.jpg?raw=true">  
 
 **Network Adapter** 선택 후 **Custom** 체크하고 `VMnet0` 선택  
 설정이 다 되었으면 `OK`클릭  
 
-<img src="{{site.url}}/images/vM_인터넷_설정3.jpg?raw=true">  
+<img src="{{site.url}}/images/VM_인터넷_설정3.jpg?raw=true">  
 
 다운 받은 **vmnetcfg.exe를 실행**하고 `Change Settings`를 클릭  
 
-<img src="{{site.url}}/images/vM_인터넷_설정4.jpg?raw=true">  
+<img src="{{site.url}}/images/VM_인터넷_설정4.jpg?raw=true">  
 
 잠시 기다리면 **VMnet0이 생성된 것을 확인**할 수 있음  
 **VMnet0를 선택**하고 실제 **호스트 컴퓨터가 사용하는 랜카드**를 선택  
 선택이 완료됬으면 `Apply`, `OK` 순으로 버튼을 눌러 설정을 완료함  
 
-<img src="{{site.url}}/images/vM_인터넷_설정5.jpg?raw=true">  
+<img src="{{site.url}}/images/VM_인터넷_설정5.jpg?raw=true">  
 
 실제 **VMWare Player를 가동**하고 **가상 머신 안**에서 사용할 **고정 IP 설정**  
 <br>
 ### NAT  
 
-<img src="{{site.url}}/images/vM_인터넷_설정1.jpg?raw=true">  
+<img src="{{site.url}}/images/VM_인터넷_설정1.jpg?raw=true">  
 
 VMWare에서 **Edit Virtual Machine Settings**를 클릭  
 
-<img src="{{site.url}}/images/vM_인터넷_설정7.jpg?raw=true">  
+<img src="{{site.url}}/images/VM_인터넷_설정6.jpg?raw=true">  
 
 **Network Adapter** 선택 후 **NAT** 체크 후 `OK`클릭  
