@@ -29,8 +29,9 @@ layout: default
 - [Network](javascript:void(0))  
 
 ## Algorithm  
-- [Key](javascript:void(0))
-- [Applications](javascript:void(0))
+- [Key](javascript:void(0))  
+- [Library](javascript:void(0))  
+- [Applications](javascript:void(0))  
 
 ## Programming  
 - [HTML5](javascript:void(0))    
