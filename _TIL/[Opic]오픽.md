@@ -41,3 +41,15 @@ I never have been to abroad. There are several reasons. First, I didn't enough t
 When I was a highschool student, I started to listen music to overcome depressed my mind. Although I didn't study hard, I was suppressed by study. I think not only I but also many students got stress from study. Most student didn't like study. So, to overcome my depressed mind, I started to listen music. Especially, I usually listened idol music. Idol's voice give energy to me when I did study. Their voice was light and vivid.  
 
 <br>
+### 학교 기술   
+
+IT was improved. So, many things were operated electronically. For example, there are attendance system and streaming service. To check student's attendance, school used electronic management system. Student who want to check his/her attendance must take card and check his/her attendance. Next, streaming system records lecture when professor teach us. Student who can not attend his/her class can take lecture through the internet. However, I think IT service must be improved more than nowadays. Current system cannot replace traditional system. For example, student who want to run from class only check his/her attendance. Machine can not recognize this fact. If professor check attendance orally, it can be prevented. So, I think that school technology is weak yet.   
+
+<br>
+### 조깅 부상 예방  
+
+Because I love running, I know this question well. In addition, I had some experience on injury. To prevent injury, stretching is needed. If we don't have stretching before doing exercise, our body were not prepared for sudden exercise. So, It can cause many injury. Especially, I had many experience on knee injury. It was very painful after running. However, if I had some stretching before running, all of things were OK.   
+
+<br>
+
+### fasd   
