@@ -1,8 +1,8 @@
 ---
 layout: post 
 tag: Opic
-title: 오픽
-date: 2018.09.18
+title: Question and Answer
+date: 2018.09.25
 ---
 
 ## Opic  

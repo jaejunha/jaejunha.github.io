@@ -27,7 +27,6 @@ layout: default
 - [Graphics](javascript:void(0))  
 - [MultiMedia](javascript:void(0))  
 - [Network](javascript:void(0))  
-- [MT](javascript:void(0))  
 
 ## Test  
 - [Opic](javascript:void(0))  
