@@ -81,3 +81,60 @@ As the job market in Korea becomes more and more competitive, many students worr
 한국 취업 시장이 더욱 힘들어지기 때문에, 많은 학생들은 졸업후 진로를 걱정하게 된다
 ```
 <br>
+I heard that you finished work  
+```
+들었다는 표현
+나는 너가 일을 끝냈다는 것을 들었다
+```
+<br>
+I would like to ask you about your life  
+```
+질문 표현
+나는 너의 인생에 대해 질문 하고 싶다
+```
+What event did you and class mate become close?
+```
+의문문 표현
+어떤 이벤트가 너와 학급 친구를 가깝게 했냐?
+```
+<br>
+I was responsible for this work
+```
+나는 이 일에 책임을 가지고 있다  
+```
+<br>
+SDN stands for Software Defined Networking  
+```
+SDN은 Software Defined Networking의 약어이다
+```
+<br>
+I go to work by taxi
+```
+나는 택시로 출근 합니다
+```
+<br>
+I take public transportation to work  
+```
+나는 회사까지 대중교통을 이용한다
+```
+<br>
+It takes two and a half hours for me to get to lab
+```
+랩에 도착하는데 2시간 반이 걸린다
+```
+<br>
+I'm in charge of design
+```
+나는 디자인을 담당하고 있다
+```
+<br>
+I go on a business trip twice a week
+```
+일주일에 출장을 2번 간다
+```
+<br>
+I usually work through the night in library  
+```
+나는 도서관에서 자주 밤샘을 한다
+```
+<br>
