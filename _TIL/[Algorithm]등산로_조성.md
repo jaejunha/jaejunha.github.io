@@ -46,12 +46,15 @@ for (int i = 1; i <= n; i++) {
 	}
 }
 ```
+<br>
+
 백트래킹 사용  
 **x, y**: 기준 좌표  
 **px, py**: 이동할 좌표  
 **b**: 높이를 이미 깍았는 지  
 **c**: 이동 거리  
 **temp**: 백트래킹시 높이 복원 용도  
+
 ```
 void dfs(int x, int y, int c, bool b) {
 	v[x][y] = true;
